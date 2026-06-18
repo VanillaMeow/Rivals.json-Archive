@@ -358,1504 +358,9 @@
       "16530229541",
       "16530229695"]
   },
-  "Wraps": {
-        "Texture Ids": {
-          ".Dll":"107259384430822",
-          ".Exe":"71439736099130",
-          "1bvisits":"121615997717548",
-          "2025wrapping":"83515541130518",
-          "2026wrapping":"119344076153316",
-          "Accretion2":"17598838173",
-          "Accretion3":"17598838173",
-          "Antimatter1":"87472982302531",
-          "Antimatter2":"87472982302531",
-          "Arbiter":"10056026824",
-          "Arcane1":"94165541706756",
-          "Arena":"7658055825",
-          "Aurora":"133150796121000",
-          "Aurum":"117108890999295",
-          "Bee1":"80902131288673",
-          "Blackopal":"107526026465844",
-          "Blaze1":"17836985524",
-          "Blushwrapping":"127753437423503",
-          "Bombastic1":"114738042640688",
-          "Bubbles":"124796745676624",
-          "Candle_1":"117509622720492",
-          "Candyglossy":"10056026824",
-          "Canedwrapping":"87518999729686",
-          "Carbonwrapping":"104929977176000",
-          "Cardboard1":"80590591696455",
-          "Celestial":"117357984162814",
-          "Celtic":"117602490973206",
-          "Chilled_wrapping_1":"122456453206982",
-          "Cold_metal_1":"82785253755914",
-          "Cremewrapping":"74202947476659",
-          "Crimsonart1":"101211127444338",
-          "Crystallized":"128510495623128",
-          "Danger1":"10056026824",
-          "Darkarena1":"7658055825",
-          "Darkmatter (Broken)":"117357984162814",
-          "Darkmesh":"135989547473439",
-          "Dawn1":"10056026824",
-          "Devourer":"82785253755914",
-          "Disco":"17590398130",
-          "Eco":"95605777629561",
-          "Empress":"103628328733648",
-          "Encroached1":"90981213127249",
-          "Eruption1":"107526026465844",
-          "Experience":"18437164098",
-          "Facility":"120998158571412",
-          "Fire":"18154887724",
-          "Fracture1":"90981213127249",
-          "Frigid":"103002091349038",
-          "Frostywrapping":"104929977176000",
-          "Gingerbread":"91231411635201",
-          "Glamour":"113472237340372",
-          "Goostudsg":"16144957841",
-          "Goowelds":"18445890274",
-          "Greensparkle1":"119918322703800",
-          "Greenflame1":"17836985524",
-          "Gunmetal":"76556449465721",
-          "Holly_wrapping_1":"127753437423503",
-          "Hologramarena1":"76766225253745",
-          "Honey1":"17591803674",
-          "Igneous":"134220640256348",
-          "Indigosparkle1":"119918322703800",
-          "Indigo_wrapping_1":"74202947476659",
-          "Inlets":"16144958110",
-          "Iridescent1":"117194291647291",
-          "Jollywrapping":"122456453206982",
-          "Lightmesh":"135989547473439",
-          "Lightning":"84041245562305",
-          "Limefire1":"123698579282998",
-          "Lovelyleopard1":"91479536716200",
-          "Luxe_1":"90981213127249",
-          "Luxurious":"107232540859220",
-          "Missing_wrap":"120578061586581",
-          "Magma":"17584073523",
-          "Magnetite":"126857495005467",
-          "Messis1":"99469469387194",
-          "Mintchocochip1":"106875590029410",
-          "Mintywrapping":"74202947476659",
-          "Mischief":"17836985524",
-          "Money":"120516745997404",
-          "Mummy":"113725708722120",
-          "Nebula1":"17590258932",
-          "Necromancer1":"82785253755914",
-          "Neonlights1":"139619591202299",
-          "Noir1":"10056026824",
-          "Normal1":"10056026824",
-          "Ornament_1":"129850186589193",
-          "Pearly_wrapping_1":"104929977176000",
-          "Peridot1":"87500851530348",
-          "Peril1":"78512950198698",
-          "Pine":"10056026824",
-          "Pixelblight":"98991297335885",
-          "Pixellight1":"98991297335885",
-          "Plaid_pajama_1":"89514129877461",
-          "Plasma1":"96741650977983",
-          "Polar_wrapping_1":"104929977176000",
-          "Portal":"10056026824",
-          "Quasar":"17833298904",
-          "Regal":"10056026824",
-          "Regal_wrapping_1":"122456453206982k",
-          "Rift":"100915937881186",
-          "Rivalswrapping":"15375670532",
-          "Scribble1":"112448109089773",
-          "Sentinel":"91971148945145",
-          "Shadowink1":"101211127444338",
-          "Slush1":"81429335681434",
-          "Snowfall":"94113212016987",
-          "Solar2":"111785647214791",
-          "Spectral":"10056026824",
-          "Spellsling":"71009827680754",
-          "Stocking_1":"82785253755914",
-          "Studs":"16144957841",
-          "Sunset":"76556449465721",
-          "Supernova":"17590284970",
-          "Tixwrap":"71749204057025",
-          "Tealur":"139979937140990",
-          "Tempest1":"111885284933261",
-          "Thunderburst":"133035414483139",
-          "Trophy":"18185331121",
-          "Tusky_1":"82785253755914",
-          "Ultrazed2":"114322324609202",
-          "Universal":"16144958351",
-          "Venom":"76556449465721",
-          "Vigor1":"78512950198698",
-          "Virus1":"86753964590900",
-          "Waste1":"10056026824",
-          "Water1":"117624745612255",
-          "Winterwrapping":"104929977176000",
-          "Wrapped_luxury_1":"122456453206982",
-          "Wrapped_fortune_1":"87518999729686",
-          "Epic":"108149221839661"
-    },
-        "Mapping Ids": {
-          "A5":{
-            "Colormap":"17589862803",
-            "Metalnessmap":"17589862765",
-            "Normalmap":"17589862792",
-            "Roughnessmap":"17589862799",
-            "Colormapcontent":"17589862803",
-            "Metalnessmapcontent":"17589862765",
-            "Normalmapcontent":"17589862792",
-            "Roughnessmapcontent":"17589862799"
-      },
-          "Aegis":{
-            "Colormap":"na",
-            "Metalnessmap":"100746634314832",
-            "Normalmap":"na",
-            "Roughnessmap":"128912834378921",
-            "Colormapcontent":"na",
-            "Metalnessmapcontent":"100746634314832",
-            "Normalmapcontent":"na",
-            "Roughnessmapcontent":"128912834378921"
-      },
-          "Amber":{
-            "Colormap":"17589090322",
-            "Metalnessmap":"17589090247",
-            "Normalmap":"17589090324",
-            "Roughnessmap":"17589090321",
-            "Colormapcontent":"17589090322",
-            "Metalnessmapcontent":"17589090247",
-            "Normalmapcontent":"17589090324",
-            "Roughnessmapcontent":"17589090321"
-      },
-          "Ancient1":{
-            "Colormap":"18641137812",
-            "Metalnessmap":"18641137597",
-            "Normalmap":"18641137693",
-            "Roughnessmap":"18641137646",
-            "Colormapcontent":"18641137812",
-            "Metalnessmapcontent":"18641137597",
-            "Normalmapcontent":"18641137693",
-            "Roughnessmapcontent":"18641137646"
-      },
-          "Ancient2":{
-            "Colormap":"18641148677",
-            "Metalnessmap":"18641148588",
-            "Normalmap":"18641148640",
-            "Roughnessmap":"18641148618",
-            "Colormapcontent":"18641148677",
-            "Metalnessmapcontent":"18641148588",
-            "Normalmapcontent":"18641148640",
-            "Roughnessmapcontent":"18641148618"
-      },
-          "Arabesque":{
-            "Colormap":"17581979496",
-            "Metalnessmap":"17581979410",
-            "Normalmap":"17581979502",
-            "Roughnessmap":"17581979438",
-            "Colormapcontent":"17581979496",
-            "Metalnessmapcontent":"17581979410",
-            "Normalmapcontent":"17581979502",
-            "Roughnessmapcontent":"17581979438"
-      },
-          "Arbiter":{
-            "Colormap":"70871237792108",
-            "Metalnessmap":"na",
-            "Normalmap":"83283728034272",
-            "Roughnessmap":"127155693471883",
-            "Colormapcontent":"70871237792108",
-            "Metalnessmapcontent":"na",
-            "Normalmapcontent":"83283728034272",
-            "Roughnessmapcontent":"127155693471883"
-      },
-          "Arctic Camo":{
-            "Colormap":"17617543134",
-            "Metalnessmap":"17617542984",
-            "Normalmap":"17617543126",
-            "Roughnessmap":"17617543091",
-            "Colormapcontent":"17617543134",
-            "Metalnessmapcontent":"17617542984",
-            "Normalmapcontent":"17617543126",
-            "Roughnessmapcontent":"17617543091"
-      },
-          "Aurum":{
-            "Colormap":"17588987919",
-            "Metalnessmap":"17588987499",
-            "Normalmap":"17588987595",
-            "Roughnessmap":"17588987578",
-            "Colormapcontent":"17588987919",
-            "Metalnessmapcontent":"17588987499",
-            "Normalmapcontent":"17588987595",
-            "Roughnessmapcontent":"17588987578"
-      },
-          "Bee":{
-            "Colormap":"",
-            "Metalnessmap":"100746634314832",
-            "Normalmap":"",
-            "Roughnessmap":"128912834378921",
-            "Colormapcontent":"",
-            "Metalnessmapcontent":"100746634314832",
-            "Normalmapcontent":"",
-            "Roughnessmapcontent":"128912834378921"
-      },
-          "Beewing":{
-            "Colormap":"",
-            "Metalnessmap":"100746634314832",
-            "Normalmap":"",
-            "Roughnessmap":"128912834378921",
-            "Colormapcontent":"",
-            "Metalnessmapcontent":"100746634314832",
-            "Normalmapcontent":"",
-            "Roughnessmapcontent":"128912834378921"
-      },
-          "Black Granite":{
-            "Colormap":"18644778799",
-            "Metalnessmap":"18644779211",
-            "Normalmap":"18644779163",
-            "Roughnessmap":"18644779453",
-            "Colormapcontent":"18644778799",
-            "Metalnessmapcontent":"18644779211",
-            "Normalmapcontent":"18644779163",
-            "Roughnessmapcontent":"18644779453"
-      },
-          "Black Opal":{
-            "Colormap":"17589042028",
-            "Metalnessmap":"17589041921",
-            "Normalmap":"17589042007",
-            "Roughnessmap":"17589041993",
-            "Colormapcontent":"17589042028",
-            "Metalnessmapcontent":"17589041921",
-            "Normalmapcontent":"17589042007",
-            "Roughnessmapcontent":"17589041993"
-      },
-          "Blackdamascus":{
-            "Colormap":"100934374113027",
-            "Metalnessmap":"110268976447969",
-            "Normalmap":"81217178723404",
-            "Roughnessmap":"109726021591376",
-            "Colormapcontent":"100934374113027",
-            "Metalnessmapcontent":"110268976447969",
-            "Normalmapcontent":"81217178723404",
-            "Roughnessmapcontent":"109726021591376"
-      },
-          "Bliss":{
-            "Colormap":"",
-            "Metalnessmap":"135923263838272",
-            "Normalmap":"137868992090530",
-            "Roughnessmap":"127663527074764",
-            "Colormapcontent":"",
-            "Metalnessmapcontent":"135923263838272",
-            "Normalmapcontent":"137868992090530",
-            "Roughnessmapcontent":"127663527074764"
-      },
-          "Bluesteel":{
-            "Colormap":"",
-            "Metalnessmap":"106433778543814",
-            "Normalmap":"112082353546886",
-            "Roughnessmap":"116257092607841",
-            "Colormapcontent":"",
-            "Metalnessmapcontent":"106433778543814",
-            "Normalmapcontent":"112082353546886",
-            "Roughnessmapcontent":"116257092607841"
-      },
-          "Brain":{
-            "Colormap":"17582694510",
-            "Metalnessmap":"17582694482",
-            "Normalmap":"17582694520",
-            "Roughnessmap":"17582694508",
-            "Colormapcontent":"17582694510",
-            "Metalnessmapcontent":"17582694482",
-            "Normalmapcontent":"17582694520",
-            "Roughnessmapcontent":"17582694508"
-      },
-          "Brushedmetal":{
-            "Colormap":"18640746828",
-            "Metalnessmap":"18640746450",
-            "Normalmap":"18640746595",
-            "Roughnessmap":"18640746490",
-            "Colormapcontent":"18640746828",
-            "Metalnessmapcontent":"18640746450",
-            "Normalmapcontent":"18640746595",
-            "Roughnessmapcontent":"18640746490"
-      },
-          "Bunsen":{
-            "Colormap":"17582812081",
-            "Metalnessmap":"17582812017",
-            "Normalmap":"17582812094",
-            "Roughnessmap":"17582812070",
-            "Colormapcontent":"17582812081",
-            "Metalnessmapcontent":"17582812017",
-            "Normalmapcontent":"17582812094",
-            "Roughnessmapcontent":"17582812070"
-      },
-          "Candyglossy":{
-            "Colormap":"",
-            "Metalnessmap":"135923263838272",
-            "Normalmap":"137868992090530",
-            "Roughnessmap":"127663527074764",
-            "Colormapcontent":"",
-            "Metalnessmapcontent":"135923263838272",
-            "Normalmapcontent":"137868992090530",
-            "Roughnessmapcontent":"127663527074764"
-      },
-          "Carbon Fiber":{
-            "Colormap":"18644677176",
-            "Metalnessmap":"18644677991",
-            "Normalmap":"18644678897",
-            "Roughnessmap":"18644679075",
-            "Colormapcontent":"18644677176",
-            "Metalnessmapcontent":"18644677991",
-            "Normalmapcontent":"18644678897",
-            "Roughnessmapcontent":"18644679075"
-      },
-          "Cardinal":{
-            "Colormap":"18654481822",
-            "Metalnessmap":"18654481715",
-            "Normalmap":"18654481815",
-            "Roughnessmap":"18654481774",
-            "Colormapcontent":"18654481822",
-            "Metalnessmapcontent":"18654481715",
-            "Normalmapcontent":"18654481815",
-            "Roughnessmapcontent":"18654481774"
-      },
-          "Carmine":{
-            "Colormap":"",
-            "Metalnessmap":"74373897563307",
-            "Normalmap":"129009017656218",
-            "Roughnessmap":"119965037739668",
-            "Colormapcontent":"",
-            "Metalnessmapcontent":"74373897563307",
-            "Normalmapcontent":"129009017656218",
-            "Roughnessmapcontent":"119965037739668"
-      },
-          "Carpet":{
-            "Colormap":"17582274624",
-            "Metalnessmap":"17582274542",
-            "Normalmap":"17582274647",
-            "Roughnessmap":"17582274604",
-            "Colormapcontent":"17582274624",
-            "Metalnessmapcontent":"17582274542",
-            "Normalmapcontent":"17582274647",
-            "Roughnessmapcontent":"17582274604"
-      },
-          "Cheese":{
-            "Colormap":"114461270121610",
-            "Metalnessmap":"86821129652650",
-            "Normalmap":"102684331973378",
-            "Roughnessmap":"74427389833714",
-            "Colormapcontent":"114461270121610",
-            "Metalnessmapcontent":"86821129652650",
-            "Normalmapcontent":"102684331973378",
-            "Roughnessmapcontent":"74427389833714"
-      },
-          "Cheesecloth":{
-            "Colormap":"84927259026812",
-            "Metalnessmap":"111986030838093",
-            "Normalmap":"111913983285363",
-            "Roughnessmap":"135693340052914",
-            "Colormapcontent":"84927259026812",
-            "Metalnessmapcontent":"111986030838093",
-            "Normalmapcontent":"111913983285363",
-            "Roughnessmapcontent":"135693340052914"
-      },
-          "Chrome Webs":{
-            "Colormap":"",
-            "Metalnessmap":"",
-            "Normalmap":"83028082093331",
-            "Roughnessmap":"72499713279864",
-            "Colormapcontent":"",
-            "Metalnessmapcontent":"",
-            "Normalmapcontent":"83028082093331",
-            "Roughnessmapcontent":"72499713279864"
-      },
-          "Circuit":{
-            "Colormap":"17582840149",
-            "Metalnessmap":"17582840086",
-            "Normalmap":"17582840132",
-            "Roughnessmap":"17582840128",
-            "Colormapcontent":"17582840149",
-            "Metalnessmapcontent":"17582840086",
-            "Normalmapcontent":"17582840132",
-            "Roughnessmapcontent":"17582840128"
-      },
-          "Clamshell":{
-            "Colormap":"18644509922",
-            "Metalnessmap":"18644509860",
-            "Normalmap":"18644509917",
-            "Roughnessmap":"18644509904",
-            "Colormapcontent":"18644509922",
-            "Metalnessmapcontent":"18644509860",
-            "Normalmapcontent":"18644509917",
-            "Roughnessmapcontent":"18644509904"
-      },
-          "Clouds":{
-            "Colormap":"17582658005",
-            "Metalnessmap":"17582657925",
-            "Normalmap":"17582657974",
-            "Roughnessmap":"17582657960",
-            "Colormapcontent":"17582658005",
-            "Metalnessmapcontent":"17582657925",
-            "Normalmapcontent":"17582657974",
-            "Roughnessmapcontent":"17582657960"
-      },
-          "Cluster":{
-            "Colormap":"17589931460",
-            "Metalnessmap":"17589931398",
-            "Normalmap":"17589931459",
-            "Roughnessmap":"17589931453",
-            "Colormapcontent":"17589931460",
-            "Metalnessmapcontent":"17589931398",
-            "Normalmapcontent":"17589931459",
-            "Roughnessmapcontent":"17589931453"
-      },
-          "Cork":{
-            "Colormap":"18644835018",
-            "Metalnessmap":"18644835090",
-            "Normalmap":"18644835671",
-            "Roughnessmap":"18644835571",
-            "Colormapcontent":"18644835018",
-            "Metalnessmapcontent":"18644835090",
-            "Normalmapcontent":"18644835671",
-            "Roughnessmapcontent":"18644835571"
-      },
-          "Crimsonart":{
-            "Colormap":"",
-            "Metalnessmap":"102956853933457",
-            "Normalmap":"98882627825480",
-            "Roughnessmap":"",
-            "Colormapcontent":"",
-            "Metalnessmapcontent":"102956853933457",
-            "Normalmapcontent":"98882627825480",
-            "Roughnessmapcontent":""
-      },
-          "Crochet":{
-            "Colormap":"18644419469",
-            "Metalnessmap":"18644419315",
-            "Normalmap":"18644419461",
-            "Roughnessmap":"18644419391",
-            "Colormapcontent":"18644419469",
-            "Metalnessmapcontent":"18644419315",
-            "Normalmapcontent":"18644419461",
-            "Roughnessmapcontent":"18644419391"
-      },
-          "Crossed":{
-            "Colormap":"17582603144",
-            "Metalnessmap":"17582603000",
-            "Normalmap":"17582603121",
-            "Roughnessmap":"17582603066",
-            "Colormapcontent":"17582603144",
-            "Metalnessmapcontent":"17582603000",
-            "Normalmapcontent":"17582603121",
-            "Roughnessmapcontent":"17582603066"
-      },
-          "Damascus":{
-            "Colormap":"",
-            "Metalnessmap":"79480216004456",
-            "Normalmap":"112765890447076",
-            "Roughnessmap":"90143470472297",
-            "Colormapcontent":"",
-            "Metalnessmapcontent":"79480216004456",
-            "Normalmapcontent":"112765890447076",
-            "Roughnessmapcontent":"90143470472297"
-      },
-          "Desert Camo":{
-            "Colormap":"17617657895",
-            "Metalnessmap":"17617657686",
-            "Normalmap":"17617657849",
-            "Roughnessmap":"17617657790",
-            "Colormapcontent":"17617657895",
-            "Metalnessmapcontent":"17617657686",
-            "Normalmapcontent":"17617657849",
-            "Roughnessmapcontent":"17617657790"
-      },
-          "Developore":{
-            "Colormap":"121084523633725",
-            "Metalnessmap":"100080364483867",
-            "Normalmap":"",
-            "Roughnessmap":"126387283648784",
-            "Colormapcontent":"121084523633725",
-            "Metalnessmapcontent":"100080364483867",
-            "Normalmapcontent":"",
-            "Roughnessmapcontent":"126387283648784"
-      },
-          "Diamond":{
-            "Colormap":"129778812616013",
-            "Metalnessmap":"77112774850148",
-            "Normalmap":"84933012431915",
-            "Roughnessmap":"79680906891064",
-            "Colormapcontent":"1297788126160",
-            "Metalnessmapcontent":"77112774850148",
-            "Normalmapcontent":"84933012431915",
-            "Roughnessmapcontent":"79680906891064"
-      },
-          "Digital Camo":{
-            "Colormap":"17617677593",
-            "Metalnessmap":"17617677516",
-            "Normalmap":"17617677602",
-            "Roughnessmap":"17617677568",
-            "Colormapcontent":"17617677593",
-            "Metalnessmapcontent":"17617677516",
-            "Normalmapcontent":"17617677602",
-            "Roughnessmapcontent":"17617677568"
-      },
-          "Encrypt":{
-            "Colormap":"18655987724",
-            "Metalnessmap":"18655987573",
-            "Normalmap":"18655987699",
-            "Roughnessmap":"18655987669",
-            "Colormapcontent":"18655987724",
-            "Metalnessmapcontent":"18655987573",
-            "Normalmapcontent":"18655987699",
-            "Roughnessmapcontent":"18655987669"
-      },
-          "Forest Camo":{
-            "Colormap":"17582313053",
-            "Metalnessmap":"17582312955",
-            "Normalmap":"17582313039",
-            "Roughnessmap":"17582313024",
-            "Colormapcontent":"17582313053",
-            "Metalnessmapcontent":"17582312955",
-            "Normalmapcontent":"17582313039",
-            "Roughnessmapcontent":"17582313024"
-      },
-          "Frankenstein":{
-            "Colormap":"101666777577078",
-            "Metalnessmap":"96829113203676",
-            "Normalmap":"78472319720365",
-            "Roughnessmap":"75482356552293",
-            "Colormapcontent":"101666777577078",
-            "Metalnessmapcontent":"96829113203676",
-            "Normalmapcontent":"78472319720365",
-            "Roughnessmapcontent":"75482356552293"
-      },
-          "Frankenstein Metal":{
-            "Colormap":"127386926272763",
-            "Metalnessmap":"95749013773619",
-            "Normalmap":"99107150535335",
-            "Roughnessmap":"77725994467558",
-            "Colormapcontent":"127386926272763",
-            "Metalnessmapcontent":"95749013773619",
-            "Normalmapcontent":"99107150535335",
-            "Roughnessmapcontent":"77725994467558"
-      },
-          "Frosted":{
-            "Colormap":"17589378611",
-            "Metalnessmap":"17589378440",
-            "Normalmap":"17589378543",
-            "Roughnessmap":"17589378504",
-            "Colormapcontent":"17589378611",
-            "Metalnessmapcontent":"17589378440",
-            "Normalmapcontent":"17589378543",
-            "Roughnessmapcontent":"17589378504"
-      },
-          "Geometric":{
-            "Colormap":"",
-            "Metalnessmap":"136514486309332",
-            "Normalmap":"104139592751798",
-            "Roughnessmap":"85642223277021",
-            "Colormapcontent":"",
-            "Metalnessmapcontent":"136514486309332",
-            "Normalmapcontent":"104139592751798",
-            "Roughnessmapcontent":"85642223277021"
-      },
-          "Gingerbread":{
-            "Colormap":"75296402212409",
-            "Metalnessmap":"86640424600767",
-            "Normalmap":"83774846975719",
-            "Roughnessmap":"74037401725552",
-            "Colormapcontent":"75296402212409",
-            "Metalnessmapcontent":"86640424600767",
-            "Normalmapcontent":"83774846975719",
-            "Roughnessmapcontent":"74037401725552"
-      },
-          "Glacier":{
-            "Colormap":"",
-            "Metalnessmap":"17589037508",
-            "Normalmap":"111635301841049",
-            "Roughnessmap":"",
-            "Colormapcontent":"",
-            "Metalnessmapcontent":"17589037508",
-            "Normalmapcontent":"111635301841049",
-            "Roughnessmapcontent":""
-      },
-          "Glamour":{
-            "Colormap":"",
-            "Metalnessmap":"",
-            "Normalmap":"",
-            "Roughnessmap":"",
-            "Colormapcontent":"",
-            "Metalnessmapcontent":"",
-            "Normalmapcontent":"",
-            "Roughnessmapcontent":""
-      },
-          "Glisten":{
-            "Colormap":"17588939827",
-            "Metalnessmap":"17588939743",
-            "Normalmap":"17588939832",
-            "Roughnessmap":"17588939808",
-            "Colormapcontent":"17588939827",
-            "Metalnessmapcontent":"17588939743",
-            "Normalmapcontent":"17588939832",
-            "Roughnessmapcontent":"17588939808"
-      },
-          "Glossy":{
-            "Colormap":"17591803719",
-            "Metalnessmap":"17591803633",
-            "Normalmap":"17591803707",
-            "Roughnessmap":"17591803674",
-            "Colormapcontent":"17591803719",
-            "Metalnessmapcontent":"17591803633",
-            "Normalmapcontent":"17591803707",
-            "Roughnessmapcontent":"17591803674"
-      },
-          "Glossycandycane":{
-            "Colormap":"117095826772081",
-            "Metalnessmap":"119774529660953",
-            "Normalmap":"102216150567057",
-            "Roughnessmap":"73829875126441",
-            "Colormapcontent":"117095826772081",
-            "Metalnessmapcontent":"119774529660953",
-            "Normalmapcontent":"102216150567057",
-            "Roughnessmapcontent":"73829875126441"
-      },
-          "Glossycandycane2":{
-            "Colormap":"109558771056849",
-            "Metalnessmap":"119774529660953",
-            "Normalmap":"102216150567057",
-            "Roughnessmap":"73829875126441",
-            "Colormapcontent":"109558771056849",
-            "Metalnessmapcontent":"119774529660953",
-            "Normalmapcontent":"102216150567057",
-            "Roughnessmapcontent":"73829875126441"
-      },
-          "Glossygeneric":{
-            "Colormap":"",
-            "Metalnessmap":"135923263838272",
-            "Normalmap":"137868992090530",
-            "Roughnessmap":"127663527074764",
-            "Colormapcontent":"",
-            "Metalnessmapcontent":"135923263838272",
-            "Normalmapcontent":"137868992090530",
-            "Roughnessmapcontent":"127663527074764"
-      },
-          "Grass1":{
-            "Colormap":"18641195221",
-            "Metalnessmap":"18641194933",
-            "Normalmap":"18641195036",
-            "Roughnessmap":"18641194990",
-            "Colormapcontent":"18641195221",
-            "Metalnessmapcontent":"18641194933",
-            "Normalmapcontent":"18641195036",
-            "Roughnessmapcontent":"18641194990"
-      },
-          "Groove":{
-            "Colormap":"18211690779",
-            "Metalnessmap":"18211690706",
-            "Normalmap":"18211690768",
-            "Roughnessmap":"18211690743",
-            "Colormapcontent":"18211690779",
-            "Metalnessmapcontent":"18211690706",
-            "Normalmapcontent":"18211690768",
-            "Roughnessmapcontent":"18211690743"
-      },
-          "Hammered":{
-            "Colormap":"",
-            "Metalnessmap":"86420310912076",
-            "Normalmap":"82486611042068",
-            "Roughnessmap":"76413643901253",
-            "Colormapcontent":"",
-            "Metalnessmapcontent":"86420310912076",
-            "Normalmapcontent":"82486611042068",
-            "Roughnessmapcontent":"76413643901253"
-      },
-          "Hesper":{
-            "Colormap":"17582886345",
-            "Metalnessmap":"17582886313",
-            "Normalmap":"17582886341",
-            "Roughnessmap":"17582886349",
-            "Colormapcontent":"17582886345",
-            "Metalnessmapcontent":"17582886313",
-            "Normalmapcontent":"17582886341",
-            "Roughnessmapcontent":"17582886349"
-      },
-          "Honey":{
-            "Colormap":"",
-            "Metalnessmap":"96030697377248",
-            "Normalmap":"87001153819521",
-            "Roughnessmap":"92853442776873",
-            "Colormapcontent":"",
-            "Metalnessmapcontent":"96030697377248",
-            "Normalmapcontent":"87001153819521",
-            "Roughnessmapcontent":"92853442776873"
-      },
-          "Honeycomb":{
-            "Colormap":"111808084543740",
-            "Metalnessmap":"",
-            "Normalmap":"113733858629044",
-            "Roughnessmap":"",
-            "Colormapcontent":"111808084543740",
-            "Metalnessmapcontent":"",
-            "Normalmapcontent":"113733858629044",
-            "Roughnessmapcontent":""
-      },
-          "Hyperdrive":{
-            "Colormap":"18656115244",
-            "Metalnessmap":"18656115117",
-            "Normalmap":"18656115248",
-            "Roughnessmap":"18656115200",
-            "Colormapcontent":"18656115244",
-            "Metalnessmapcontent":"18656115117",
-            "Normalmapcontent":"18656115248",
-            "Roughnessmapcontent":"18656115200"
-      },
-          "Hypnotic 1":{
-            "Colormap":"18655823575",
-            "Metalnessmap":"18655823343",
-            "Normalmap":"18655823556",
-            "Roughnessmap":"18655823422",
-            "Colormapcontent":"18655823575",
-            "Metalnessmapcontent":"18655823343",
-            "Normalmapcontent":"18655823556",
-            "Roughnessmapcontent":"18655823422"
-      },
-          "Hypnotic 2":{
-            "Colormap":"18655839320",
-            "Metalnessmap":"18655839096",
-            "Normalmap":"18655839184",
-            "Roughnessmap":"18655839144",
-            "Colormapcontent":"18655839320",
-            "Metalnessmapcontent":"18655839096",
-            "Normalmapcontent":"18655839184",
-            "Roughnessmapcontent":"18655839144"
-      },
-          "Insidious":{
-            "Colormap":"17588995235",
-            "Metalnessmap":"17588995187",
-            "Normalmap":"17588995267",
-            "Roughnessmap":"17588995237",
-            "Colormapcontent":"17588995235",
-            "Metalnessmapcontent":"17588995187",
-            "Normalmapcontent":"17588995267",
-            "Roughnessmapcontent":"17588995237"
-      },
-          "Insignia":{
-            "Colormap":"18641348088",
-            "Metalnessmap":"18641347929",
-            "Normalmap":"18641348089",
-            "Roughnessmap":"18641348063",
-            "Colormapcontent":"18641348088",
-            "Metalnessmapcontent":"18641347929",
-            "Normalmapcontent":"18641348089",
-            "Roughnessmapcontent":"18641348063"
-      },
-          "K_material":{
-            "Colormap":"",
-            "Metalnessmap":"135923263838272",
-            "Normalmap":"137868992090530",
-            "Roughnessmap":"127663527074764",
-            "Colormapcontent":"",
-            "Metalnessmapcontent":"135923263838272",
-            "Normalmapcontent":"137868992090530",
-            "Roughnessmapcontent":"127663527074764"
-      },
-          "Lavishcrystal":{
-            "Colormap":"",
-            "Metalnessmap":"17589037508",
-            "Normalmap":"81426768920073",
-            "Roughnessmap":"132540389553062",
-            "Colormapcontent":"",
-            "Metalnessmapcontent":"17589037508",
-            "Normalmapcontent":"81426768920073",
-            "Roughnessmapcontent":"132540389553062"
-      },
-          "Leafy Grass":{
-            "Colormap":"18644722588",
-            "Metalnessmap":"18644722750",
-            "Normalmap":"18644723221",
-            "Roughnessmap":"18644723502",
-            "Colormapcontent":"18644722588",
-            "Metalnessmapcontent":"18644722750",
-            "Normalmapcontent":"18644723221",
-            "Roughnessmapcontent":"18644723502"
-      },
-          "Limefiremat":{
-            "Colormap":"",
-            "Metalnessmap":"135923263838272",
-            "Normalmap":"134435564236648",
-            "Roughnessmap":"127663527074764",
-            "Colormapcontent":"",
-            "Metalnessmapcontent":"135923263838272",
-            "Normalmapcontent":"134435564236648",
-            "Roughnessmapcontent":"127663527074764"
-      },
-          "Liquid Chrome":{
-            "Colormap":"18641282500",
-            "Metalnessmap":"18641282415",
-            "Normalmap":"18641282505",
-            "Roughnessmap":"93524032648502",
-            "Colormapcontent":"18641282500",
-            "Metalnessmapcontent":"18641282415",
-            "Normalmapcontent":"18641282505",
-            "Roughnessmapcontent":"93524032648502"
-      },
-          "Liquid Gold":{
-            "Colormap":"18641274805",
-            "Metalnessmap":"18641274662",
-            "Normalmap":"18641274943",
-            "Roughnessmap":"93524032648502",
-            "Colormapcontent":"18641274805",
-            "Metalnessmapcontent":"18641274662",
-            "Normalmapcontent":"18641274943",
-            "Roughnessmapcontent":"93524032648502"
-      },
-          "Lumber":{
-            "Colormap":"11328578444",
-            "Metalnessmap":"",
-            "Normalmap":"11327525324",
-            "Roughnessmap":"11327525435",
-            "Colormapcontent":"11328578444",
-            "Metalnessmapcontent":"",
-            "Normalmapcontent":"11327525324",
-            "Roughnessmapcontent":"11327525435"
-      },
-          "Mahogany Wood":{
-            "Colormap":"18654114690",
-            "Metalnessmap":"18654114505",
-            "Normalmap":"18654114656",
-            "Roughnessmap":"18654114599",
-            "Colormapcontent":"18654114690",
-            "Metalnessmapcontent":"18654114505",
-            "Normalmapcontent":"18654114656",
-            "Roughnessmapcontent":"18654114599"
-      },
-          "Mainframe":{
-            "Colormap":"17582847642",
-            "Metalnessmap":"17582847574",
-            "Normalmap":"17582847629",
-            "Roughnessmap":"17582847609",
-            "Colormapcontent":"17582847642",
-            "Metalnessmapcontent":"17582847574",
-            "Normalmapcontent":"17582847629",
-            "Roughnessmapcontent":"17582847609"
-      },
-          "Malachite":{
-            "Colormap":"17570628587",
-            "Metalnessmap":"17570628532",
-            "Normalmap":"17570628576",
-            "Roughnessmap":"17570628566",
-            "Colormapcontent":"17570628587",
-            "Metalnessmapcontent":"17570628532",
-            "Normalmapcontent":"17570628576",
-            "Roughnessmapcontent":"17570628566"
-      },
-          "Malevolent":{
-            "Colormap":"17582809337",
-            "Metalnessmap":"17582809245",
-            "Normalmap":"17582809307",
-            "Roughnessmap":"17582809305",
-            "Colormapcontent":"17582809337",
-            "Metalnessmapcontent":"17582809245",
-            "Normalmapcontent":"17582809307",
-            "Roughnessmapcontent":"17582809305"
-      },
-          "Mammothfur":{
-            "Colormap":"128174483038108",
-            "Metalnessmap":"116814075876978",
-            "Normalmap":"126364117867207",
-            "Roughnessmap":"120995876840209",
-            "Colormapcontent":"128174483038108",
-            "Metalnessmapcontent":"116814075876978",
-            "Normalmapcontent":"126364117867207",
-            "Roughnessmapcontent":"120995876840209"
-      },
-          "Moonstone":{
-            "Colormap":"17589164975",
-            "Metalnessmap":"17589164916",
-            "Normalmap":"17589164973",
-            "Roughnessmap":"17589165190",
-            "Colormapcontent":"17589164975",
-            "Metalnessmapcontent":"17589164916",
-            "Normalmapcontent":"17589164973",
-            "Roughnessmapcontent":"17589165190"
-      },
-          "Necromancerglossy":{
-            "Colormap":"",
-            "Metalnessmap":"135923263838272",
-            "Normalmap":"137868992090530",
-            "Roughnessmap":"127663527074764",
-            "Colormapcontent":"",
-            "Metalnessmapcontent":"135923263838272",
-            "Normalmapcontent":"137868992090530",
-            "Roughnessmapcontent":"127663527074764"
-      },
-          "Neo":{
-            "Colormap":"18641017664",
-            "Metalnessmap":"18641017562",
-            "Normalmap":"18641017657",
-            "Roughnessmap":"18641017622",
-            "Colormapcontent":"18641017664",
-            "Metalnessmapcontent":"18641017562",
-            "Normalmapcontent":"18641017657",
-            "Roughnessmapcontent":"18641017622"
-      },
-          "Nova":{
-            "Colormap":"17589931460",
-            "Metalnessmap":"17589931398",
-            "Normalmap":"17589931459",
-            "Roughnessmap":"17589931453",
-            "Colormapcontent":"17589931460",
-            "Metalnessmapcontent":"17589931398",
-            "Normalmapcontent":"17589931459",
-            "Roughnessmapcontent":"17589931453"
-      },
-          "Ocean Camo":{
-            "Colormap":"17617613100",
-            "Metalnessmap":"17617613032",
-            "Normalmap":"17617613084",
-            "Roughnessmap":"17617613075",
-            "Colormapcontent":"17617613100",
-            "Metalnessmapcontent":"17617613032",
-            "Normalmapcontent":"17617613084",
-            "Roughnessmapcontent":"17617613075"
-      },
-          "Omnisand":{
-            "Colormap":"17589348648",
-            "Metalnessmap":"17589348575",
-            "Normalmap":"17589348639",
-            "Roughnessmap":"17589348633",
-            "Colormapcontent":"17589348648",
-            "Metalnessmapcontent":"17589348575",
-            "Normalmapcontent":"17589348639",
-            "Roughnessmapcontent":"17589348633"
-      },
-          "Pb & J":{
-            "Colormap":"17589854809",
-            "Metalnessmap":"17589854740",
-            "Normalmap":"17589854812",
-            "Roughnessmap":"17589854801",
-            "Colormapcontent":"17589854809",
-            "Metalnessmapcontent":"17589854740",
-            "Normalmapcontent":"17589854812",
-            "Roughnessmapcontent":"17589854801"
-      },
-          "Pbrsimplemetallic":{
-            "Colormap":"",
-            "Metalnessmap":"134488833607670",
-            "Normalmap":"",
-            "Roughnessmap":"",
-            "Colormapcontent":"",
-            "Metalnessmapcontent":"134488833607670",
-            "Normalmapcontent":"",
-            "Roughnessmapcontent":""
-      },
-          "Paint":{
-            "Colormap":"18129622046",
-            "Metalnessmap":"18129621984",
-            "Normalmap":"93524032648502",
-            "Roughnessmap":"82348794042057",
-            "Colormapcontent":"18129622046",
-            "Metalnessmapcontent":"18129621984",
-            "Normalmapcontent":"93524032648502",
-            "Roughnessmapcontent":"82348794042057"
-      },
-          "Pajamafur":{
-            "Colormap":"128174483038108",
-            "Metalnessmap":"116814075876978",
-            "Normalmap":"126364117867207",
-            "Roughnessmap":"120995876840209",
-            "Colormapcontent":"128174483038108",
-            "Metalnessmapcontent":"116814075876978",
-            "Normalmapcontent":"126364117867207",
-            "Roughnessmapcontent":"120995876840209"
-      },
-          "Patriot":{
-            "Colormap":"17582870627",
-            "Metalnessmap":"17582870583",
-            "Normalmap":"17582870615",
-            "Roughnessmap":"17582870605",
-            "Colormapcontent":"17582870627",
-            "Metalnessmapcontent":"17582870583",
-            "Normalmapcontent":"17582870615",
-            "Roughnessmapcontent":"17582870605"
-      },
-          "Pearlescent":{
-            "Colormap":"",
-            "Metalnessmap":"96030697377248",
-            "Normalmap":"87001153819521",
-            "Roughnessmap":"",
-            "Colormapcontent":"",
-            "Metalnessmapcontent":"96030697377248",
-            "Normalmapcontent":"87001153819521",
-            "Roughnessmapcontent":""
-      },
-          "Peridotmat":{
-            "Colormap":"",
-            "Metalnessmap":"135923263838272",
-            "Normalmap":"134435564236648",
-            "Roughnessmap":"127663527074764",
-            "Colormapcontent":"",
-            "Metalnessmapcontent":"135923263838272",
-            "Normalmapcontent":"134435564236648",
-            "Roughnessmapcontent":"127663527074764"
-      },
-          "Peril":{
-            "Colormap":"17591803719",
-            "Metalnessmap":"17591803633",
-            "Normalmap":"17591803707",
-            "Roughnessmap":"17591803674",
-            "Colormapcontent":"17591803719",
-            "Metalnessmapcontent":"17591803633",
-            "Normalmapcontent":"17591803707",
-            "Roughnessmapcontent":"17591803674"
-      },
-          "Pine":{
-            "Colormap":"11328578444",
-            "Metalnessmap":"",
-            "Normalmap":"11327525324",
-            "Roughnessmap":"11327525435",
-            "Colormapcontent":"11328578444",
-            "Metalnessmapcontent":"",
-            "Normalmapcontent":"11327525324",
-            "Roughnessmapcontent":"11327525435"
-      },
-          "Pink Glitter":{
-            "Colormap":"",
-            "Metalnessmap":"114795919439328",
-            "Normalmap":"116726481763466",
-            "Roughnessmap":"127220873690660",
-            "Colormapcontent":"",
-            "Metalnessmapcontent":"114795919439328",
-            "Normalmapcontent":"116726481763466",
-            "Roughnessmapcontent":"127220873690660"
-      },
-          "Purpleize":{
-            "Colormap":"",
-            "Metalnessmap":"95621819055850",
-            "Normalmap":"112019875945311",
-            "Roughnessmap":"127566021877932",
-            "Colormapcontent":"",
-            "Metalnessmapcontent":"95621819055850",
-            "Normalmapcontent":"112019875945311",
-            "Roughnessmapcontent":"127566021877932"
-      },
-          "Rblxpckge":{
-            "Colormap":"85315421497372",
-            "Metalnessmap":"",
-            "Normalmap":"",
-            "Roughnessmap":"",
-            "Colormapcontent":"85315421497372",
-            "Metalnessmapcontent":"",
-            "Normalmapcontent":"",
-            "Roughnessmapcontent":""
-      },
-          "Rage":{
-            "Colormap":"17582378136",
-            "Metalnessmap":"17582378084",
-            "Normalmap":"17582378125",
-            "Roughnessmap":"17582378117",
-            "Colormapcontent":"17582378136",
-            "Metalnessmapcontent":"17582378084",
-            "Normalmapcontent":"17582378125",
-            "Roughnessmapcontent":"17582378117"
-      },
-          "Regalfabric":{
-            "Colormap":"111136973658733",
-            "Metalnessmap":"",
-            "Normalmap":"135694376518944",
-            "Roughnessmap":"76014704291105",
-            "Colormapcontent":"111136973658733",
-            "Metalnessmapcontent":"",
-            "Normalmapcontent":"135694376518944",
-            "Roughnessmapcontent":"76014704291105"
-      },
-          "Reptile":{
-            "Colormap":"17589127040",
-            "Metalnessmap":"17589126950",
-            "Normalmap":"17589127044",
-            "Roughnessmap":"17589127028",
-            "Colormapcontent":"17589127040",
-            "Metalnessmapcontent":"17589126950",
-            "Normalmapcontent":"17589127044",
-            "Roughnessmapcontent":"17589127028"
-      },
-          "Resolute":{
-            "Colormap":"18655847054",
-            "Metalnessmap":"18655846896",
-            "Normalmap":"18655846950",
-            "Roughnessmap":"18655846941",
-            "Colormapcontent":"18655847054",
-            "Metalnessmapcontent":"18655846896",
-            "Normalmapcontent":"18655846950",
-            "Roughnessmapcontent":"18655846941"
-      },
-          "Rivalrymaterial":{
-            "Colormap":"",
-            "Metalnessmap":"100746634314832",
-            "Normalmap":"",
-            "Roughnessmap":"128912834378921",
-            "Colormapcontent":"",
-            "Metalnessmapcontent":"100746634314832",
-            "Normalmapcontent":"",
-            "Roughnessmapcontent":"128912834378921"
-      },
-          "Rusticwood":{
-            "Colormap":"17582925420",
-            "Metalnessmap":"17582925359",
-            "Normalmap":"17582925415",
-            "Roughnessmap":"17582925394",
-            "Colormapcontent":"17582925420",
-            "Metalnessmapcontent":"17582925359",
-            "Normalmapcontent":"17582925415",
-            "Roughnessmapcontent":"17582925394"
-      },
-          "Scales":{
-            "Colormap":"17581324777",
-            "Metalnessmap":"",
-            "Normalmap":"17581490923",
-            "Roughnessmap":"",
-            "Colormapcontent":"17581324777",
-            "Metalnessmapcontent":"",
-            "Normalmapcontent":"17581490923",
-            "Roughnessmapcontent":""
-      },
-          "Scorched":{
-            "Colormap":"17582755368",
-            "Metalnessmap":"17582755317",
-            "Normalmap":"17582755359",
-            "Roughnessmap":"17582755347",
-            "Colormapcontent":"17582755368",
-            "Metalnessmapcontent":"17582755317",
-            "Normalmapcontent":"17582755359",
-            "Roughnessmapcontent":"17582755347"
-      },
-          "Scourge":{
-            "Colormap":"98870437335087",
-            "Metalnessmap":"91966623576070",
-            "Normalmap":"",
-            "Roughnessmap":"",
-            "Colormapcontent":"98870437335087",
-            "Metalnessmapcontent":"91966623576070",
-            "Normalmapcontent":"",
-            "Roughnessmapcontent":""
-      },
-          "Scribblewrapping":{
-            "Colormap":"70369684461131",
-            "Metalnessmap":"125298060223774",
-            "Normalmap":"126665103448625",
-            "Roughnessmap":"137381161016120",
-            "Colormapcontent":"70369684461131",
-            "Metalnessmapcontent":"125298060223774",
-            "Normalmapcontent":"126665103448625",
-            "Roughnessmapcontent":"137381161016120"
-      },
-          "Slime":{
-            "Colormap":"17582785346",
-            "Metalnessmap":"17582785287",
-            "Normalmap":"17582785350",
-            "Roughnessmap":"17582785352",
-            "Colormapcontent":"17582785346",
-            "Metalnessmapcontent":"17582785287",
-            "Normalmapcontent":"17582785350",
-            "Roughnessmapcontent":"17582785352"
-      },
-          "Spellslinger":{
-            "Colormap":"114902630653540",
-            "Metalnessmap":"128745963218699",
-            "Normalmap":"74253250898950",
-            "Roughnessmap":"129235618590072",
-            "Colormapcontent":"114902630653540",
-            "Metalnessmapcontent":"128745963218699",
-            "Normalmapcontent":"74253250898950",
-            "Roughnessmapcontent":"129235618590072"
-      },
-          "Spiral1":{
-            "Colormap":"109134908250320",
-            "Metalnessmap":"115488103046621",
-            "Normalmap":"81217178723404",
-            "Roughnessmap":"",
-            "Colormapcontent":"109134908250320",
-            "Metalnessmapcontent":"115488103046621",
-            "Normalmapcontent":"81217178723404",
-            "Roughnessmapcontent":""
-      },
-          "Spiral2":{
-            "Colormap":"",
-            "Metalnessmap":"97595754213125",
-            "Normalmap":"90414929459700",
-            "Roughnessmap":"93568274815417",
-            "Colormapcontent":"",
-            "Metalnessmapcontent":"97595754213125",
-            "Normalmapcontent":"90414929459700",
-            "Roughnessmapcontent":"93568274815417"
-      },
-          "Stained":{
-            "Colormap":"136786813545841",
-            "Metalnessmap":"98415910273635",
-            "Normalmap":"86016059730442",
-            "Roughnessmap":"70663357718625",
-            "Colormapcontent":"136786813545841",
-            "Metalnessmapcontent":"98415910273635",
-            "Normalmapcontent":"86016059730442",
-            "Roughnessmapcontent":"70663357718625"
-      },
-          "Starblaze 1":{
-            "Colormap":"18656097537",
-            "Metalnessmap":"18656097454",
-            "Normalmap":"18656097583",
-            "Roughnessmap":"18656097514",
-            "Colormapcontent":"18656097537",
-            "Metalnessmapcontent":"18656097454",
-            "Normalmapcontent":"18656097583",
-            "Roughnessmapcontent":"18656097514"
-      },
-          "Starblaze 2":{
-            "Colormap":"18656053049",
-            "Metalnessmap":"18656052933",
-            "Normalmap":"18656053057",
-            "Roughnessmap":"18656053007",
-            "Colormapcontent":"18656053049",
-            "Metalnessmapcontent":"18656052933",
-            "Normalmapcontent":"18656053057",
-            "Roughnessmapcontent":"18656053007"
-      },
-          "Steel":{
-            "Colormap":"17589351399",
-            "Metalnessmap":"17589351307",
-            "Normalmap":"17589351439",
-            "Roughnessmap":"17589351351",
-            "Colormapcontent":"17589351399",
-            "Metalnessmapcontent":"17589351307",
-            "Normalmapcontent":"17589351439",
-            "Roughnessmapcontent":"17589351351"
-      },
-          "Stockingfur":{
-            "Colormap":"128174483038108",
-            "Metalnessmap":"116814075876978",
-            "Normalmap":"126364117867207",
-            "Roughnessmap":"120995876840209",
-            "Colormapcontent":"128174483038108",
-            "Metalnessmapcontent":"116814075876978",
-            "Normalmapcontent":"126364117867207",
-            "Roughnessmapcontent":"120995876840209"
-      },
-          "Storm":{
-            "Colormap":"17582469549",
-            "Metalnessmap":"17582469499",
-            "Normalmap":"17582469531",
-            "Roughnessmap":"17582469535",
-            "Colormapcontent":"17582469549",
-            "Metalnessmapcontent":"17582469499",
-            "Normalmapcontent":"17582469531",
-            "Roughnessmapcontent":"17582469535"
-      },
-          "Street Camo":{
-            "Colormap":"17617741416",
-            "Metalnessmap":"17617741348",
-            "Normalmap":"17617741442",
-            "Roughnessmap":"17617741399",
-            "Colormapcontent":"17617741416",
-            "Metalnessmapcontent":"17617741348",
-            "Normalmapcontent":"17617741442",
-            "Roughnessmapcontent":"17617741399"
-      },
-          "Studded":{
-            "Colormap":"",
-            "Metalnessmap":"18644833242",
-            "Normalmap":"18644833573",
-            "Roughnessmap":"18644833553",
-            "Colormapcontent":"",
-            "Metalnessmapcontent":"18644833242",
-            "Normalmapcontent":"18644833573",
-            "Roughnessmapcontent":"18644833553"
-      },
-          "Swirls":{
-            "Colormap":"17582388221",
-            "Metalnessmap":"17582388162",
-            "Normalmap":"17582388228",
-            "Roughnessmap":"17582388197",
-            "Colormapcontent":"17582388221",
-            "Metalnessmapcontent":"17582388162",
-            "Normalmapcontent":"17582388228",
-            "Roughnessmapcontent":"17582388197"
-      },
-          "Tiger":{
-            "Colormap":"18655933154",
-            "Metalnessmap":"18655933061",
-            "Normalmap":"18655933147",
-            "Roughnessmap":"18655933113",
-            "Colormapcontent":"18655933154",
-            "Metalnessmapcontent":"18655933061",
-            "Normalmapcontent":"18655933147",
-            "Roughnessmapcontent":"18655933113"
-      },
-          "Uglysweater":{
-            "Colormap":"81747671623113",
-            "Metalnessmap":"92564941713444",
-            "Normalmap":"101745853037663",
-            "Roughnessmap":"109485401374810",
-            "Colormapcontent":"81747671623113",
-            "Metalnessmapcontent":"92564941713444",
-            "Normalmapcontent":"101745853037663",
-            "Roughnessmapcontent":"109485401374810"
-      },
-          "Uglysweater2":{
-            "Colormap":"115291970007984",
-            "Metalnessmap":"",
-            "Normalmap":"91422398817782",
-            "Roughnessmap":"",
-            "Colormapcontent":"115291970007984",
-            "Metalnessmapcontent":"",
-            "Normalmapcontent":"91422398817782",
-            "Roughnessmapcontent":""
-      },
-          "Urban Camo":{
-            "Colormap":"17617719650",
-            "Metalnessmap":"17617719565",
-            "Normalmap":"17617719651",
-            "Roughnessmap":"17617719664",
-            "Colormapcontent":"17617719650",
-            "Metalnessmapcontent":"17617719565",
-            "Normalmapcontent":"17617719651",
-            "Roughnessmapcontent":"17617719664"
-      },
-          "Vigor":{
-            "Colormap":"17591803719",
-            "Metalnessmap":"17591803633",
-            "Normalmap":"17591803707",
-            "Roughnessmap":"17591803674",
-            "Colormapcontent":"17591803719",
-            "Metalnessmapcontent":"17591803633",
-            "Normalmapcontent":"17591803707",
-            "Roughnessmapcontent":"17591803674"
-      },
-          "Virusmat":{
-            "Colormap":"126640635125491",
-            "Metalnessmap":"83051954359391",
-            "Normalmap":"113077672044689",
-            "Roughnessmap":"85686403797574",
-            "Colormapcontent":"126640635125491",
-            "Metalnessmapcontent":"83051954359391",
-            "Normalmapcontent":"113077672044689",
-            "Roughnessmapcontent":"85686403797574"
-      },
-          "Voltaic":{
-            "Colormap":"96673615324465",
-            "Metalnessmap":"105227164588018",
-            "Normalmap":"96200800471689",
-            "Roughnessmap":"90445321183477",
-            "Colormapcontent":"96673615324465",
-            "Metalnessmapcontent":"105227164588018",
-            "Normalmapcontent":"96200800471689",
-            "Roughnessmapcontent":"90445321183477"
-      },
-          "Watermelon Green":{
-            "Colormap":"18655112917",
-            "Metalnessmap":"18655112715",
-            "Normalmap":"18655112895",
-            "Roughnessmap":"18655112799",
-            "Colormapcontent":"18655112917",
-            "Metalnessmapcontent":"18655112715",
-            "Normalmapcontent":"18655112895",
-            "Roughnessmapcontent":"18655112799"
-      },
-          "Watermelon Red":{
-            "Colormap":"18655342160",
-            "Metalnessmap":"18655342057",
-            "Normalmap":"18655342257",
-            "Roughnessmap":"18655342124",
-            "Colormapcontent":"18655342160",
-            "Metalnessmapcontent":"18655342057",
-            "Normalmapcontent":"18655342257",
-            "Roughnessmapcontent":"18655342124"
-      },
-          "Wealth":{
-            "Colormap":"17582760558",
-            "Metalnessmap":"17582760513",
-            "Normalmap":"17582760561",
-            "Roughnessmap":"17582760549",
-            "Colormapcontent":"17582760558",
-            "Metalnessmapcontent":"17582760513",
-            "Normalmapcontent":"17582760561",
-            "Roughnessmapcontent":"17582760549"
-      },
-          "Webbed":{
-            "Colormap":"17582188105",
-            "Metalnessmap":"17582187994",
-            "Normalmap":"17582188125",
-            "Roughnessmap":"17582188081",
-            "Colormapcontent":"17582188105",
-            "Metalnessmapcontent":"17582187994",
-            "Normalmapcontent":"17582188125",
-            "Roughnessmapcontent":"17582188081"
-      },
-          "Werewolf Fur":{
-            "Colormap":"124646054208622",
-            "Metalnessmap":"",
-            "Normalmap":"99198483820106",
-            "Roughnessmap":"",
-            "Colormapcontent":"124646054208622",
-            "Metalnessmapcontent":"",
-            "Normalmapcontent":"99198483820106",
-            "Roughnessmapcontent":""
-      },
-          "Wooly1":{
-            "Colormap":"",
-            "Metalnessmap":"100746634314832",
-            "Normalmap":"",
-            "Roughnessmap":"128912834378921",
-            "Colormapcontent":"",
-            "Metalnessmapcontent":"100746634314832",
-            "Normalmapcontent":"",
-            "Roughnessmapcontent":"128912834378921"
-      },
-          "Wrappingpaper":{
-            "Colormap":"70369684461131",
-            "Metalnessmap":"125298060223774",
-            "Normalmap":"126665103448625",
-            "Roughnessmap":"137381161016120",
-            "Colormapcontent":"70369684461131",
-            "Metalnessmapcontent":"125298060223774",
-            "Normalmapcontent":"126665103448625",
-            "Roughnessmapcontent":"137381161016120"
-      },
-          "Wrappingpaper_01a":{
-            "Colormap":"70369684461131",
-            "Metalnessmap":"125298060223774",
-            "Normalmap":"72992597201224",
-            "Roughnessmap":"137381161016120",
-            "Colormapcontent":"70369684461131",
-            "Metalnessmapcontent":"125298060223774",
-            "Normalmapcontent":"72992597201224",
-            "Roughnessmapcontent":"137381161016120"
-      },
-          "Wrappingpearlescent":{
-            "Colormap":"",
-            "Metalnessmap":"96030697377248",
-            "Normalmap":"87001153819",
-            "Roughnessmap":"92853442776873",
-            "Colormapcontent":"",
-            "Metalnessmapcontent":"96030697377248",
-            "Normalmapcontent":"87001153819521",
-            "Roughnessmapcontent":"92853442776873"
-      },
-          "Wrappingpearlescent2":{
-            "Colormap":"",
-            "Metalnessmap":"96030697377248",
-            "Normalmap":"87001153819521",
-            "Roughnessmap":"",
-            "Colormapcontent":"",
-            "Metalnessmapcontent":"96030697377248",
-            "Normalmapcontent":"87001153819521",
-            "Roughnessmapcontent":""
-      },
-          "Yin Yang":{
-            "Colormap":"18655892192",
-            "Metalnessmap":"18655892015",
-            "Normalmap":"18655892175",
-            "Roughnessmap":"18655892089",
-            "Colormapcontent":"18655892192",
-            "Metalnessmapcontent":"18655892015",
-            "Normalmapcontent":"18655892175",
-            "Roughnessmapcontent":"18655892089"
-      }
-    }
-  },
-	"WEAPON TESTING":{
-  "Weapon Skins": {
+  "Skins|Charms|Wraps": {
+ "Skins": {
+    "Weapon Skins": {
           "Primary":{
           "Assault Rifle":{
             "Akey-47":{
@@ -6263,6 +4768,3230 @@
     }
   }
 },
+    "Charms": {
+      "10 Gallon Hat": {
+        "Extra":[8456135408,8456135546],
+        "Hook":"17551811873",
+        "Primary": "0"
+      },
+      "100M Visits": {
+        "Extra":[18741670434,14035694679],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "1st Birthday Cake": {
+        "Extra":[77547119290429,108846842770592,80269931507654,99393739912349,107721570283812],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "3D Glasses": {
+        "Extra":[78453550924051,135059407979294,137152229269862],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "8sty": {
+        "Extra":[77689031891431,121978954847721],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Alien Head": {
+        "Extra":[18124134124,18124134265],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Alpha Coin": {
+        "Extra":[18155560371,18155560561,18155560089],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Ancient Stool": {
+        "Extra":[75237889180240],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Anvil": {
+        "Extra":[5374626659],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Applino": {
+        "Extra":[84473534653853,112115886212763],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Armchair": {
+        "Extra":[78156889934441,117201380201041],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Artifact": {
+        "Extra":[75237889180240],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Balloon Dog": {
+        "Extra":[85390151300590],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Bandites": {
+        "Extra":[18151949758,18151949912],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Basketball": {
+        "Extra":[5485406437,5485406638],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Bell": {
+        "Extra":[11774577129],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Bitster": {
+        "Extra":[12747397753,12747397827,12747397611,12747397693],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Black Cat": {
+        "Extra":[15040263216,15040263152,15040263267,15040263333,15040263077],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Blizmid": {
+        "Extra":[18151836417,18151836489],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Blobfish": {
+        "Extra":[11165546294,11165546428,11165546514],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "BobbVX": {
+        "Extra":[18542323962,18542324085],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Bone": {
+        "Extra":[78700928653542],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Bowling Pin": {
+        "Extra":[5531061863,5531061969],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Box TV": {
+        "Extra":[75362194827264,138276891989108,71447499431161],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Brian1KB": {
+        "Extra":[96104118913722,81709111407397],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Bungeoppang": {
+        "Extra":[110279197475673],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Cactus Buddy": {
+        "Extra":[106295554445426,95569275544717,90844618023476,122032096078446],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Cage": {
+        "Extra":[8080083269,8054187691,8080083094],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Candy": {
+        "Extra":[5693764590,5693764662],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Candy Bucket": {
+        "Extra":[107275606138134,125003615234709,93297330214916],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Candy Corn": {
+        "Extra":[5834546654,5834546612,5834546698],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Caramel Apple": {
+        "Extra":[78660193202874,77081886921898,117380492065037],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "CarbonMeister": {
+        "Extra":[18152283581,18152283638],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Cauldron": {
+        "Extra":[5834487135,5834487087,37332909],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chex": {
+        "Extra":[122420133744539,125237573895341],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Assault Rifle": {
+        "Extra":[92986405533844,80100734495408,132666307732506],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Battle Axe": {
+        "Extra":[124765974736068,71505208999923,105733309040704,116976414944279],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Bow": {
+        "Extra":[108615386167431,137499583770244,100469810894229],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Burst Rifle": {
+        "Extra":[74277913506679,111357581482167,129391965311783],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Chainsaw": {
+        "Extra":[87074534732604,98604627967612,109861896195558,82229292439014],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Crossbow": {
+        "Extra":[83871083237042,94936674225455,113033180501697,97824709974478],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Daggers": {
+        "Extra":[111925941684211,97593668377555],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Distortion": {
+        "Extra":[80161744139370,128728587440411,80461603072646,111782943645932,140472064316811],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Energy Pistols": {
+        "Extra":[137370320436736,96677098833928,95434204226004],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Energy Rifle": {
+        "Extra":[77605339255845,126288618038314,70837484157390],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Exogun": {
+        "Extra":[98673538863832,81242923051170,100065351752697,74243547894747],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Fists": {
+        "Extra":[115028862256257,131350216159792],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Flamethrower": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Flare Gun": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Flashbang": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Freeze Ray": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Grappler": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Grenade": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Grenade Launcher": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Gunblade": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Handgun": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Jump Pad": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Katana": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Knife": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Maul": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Medkit": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Minigun": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Molotov": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Paintball Gun": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Permafrost": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi RPG": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Revolver": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Riot Shield": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Satchel": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Scythe": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Shorty": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Shotgun": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Slingshot": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Smoke Grenade": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Sniper": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Spear": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Spray": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Subspace Tripmine": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Trowel": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Uzi": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi War Horn": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Warper": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chibi Warpstone": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chillman": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chocolate Scoop": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Chombie Head": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Cobweb": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Cog": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Coinbama": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Cookie": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Cruz": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Cryo Capsule": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Crystal": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Crystal Heart": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Cupcake": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "DV": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "D_reamz": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Darktru": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Day 1": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Decorated Tree": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Devious Pumpkin": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Dice": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Diorama Arena": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Diorama Backrooms": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Diorama Battleground": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Diorama Big Arena": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Diorama Big Backrooms": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Diorama Big Crossroads": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Diorama Big Graveyard": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Diorama Big Onyx": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Diorama Big Splash": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Diorama Big Station": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Diorama Bridge": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Diorama Chess": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Diorama Construction": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Diorama Crossroads": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Diorama Dimension": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Diorama Docks": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Diorama Graveyard": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Diorama Iceberg": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Diorama Museum": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Diorama Onyx": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Diorama Playground": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Diorama Shooting Range": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Diorama Splash": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Diorama Station": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Diorama Studio": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Diorama Village": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Diorama Westown": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Duely Award": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Dumbkin": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "EZ": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Elf Hat": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Emoji: Imp": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Emoji: Nauseated": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Emoji: Nerd": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Emoji: Weary": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Energy Cell": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Explosion": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Eyeclipse": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Fame Star": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Fedora Stack": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Festive Light": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Fireplace": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Firework": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "First Aid": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Football": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Four-Leaf Clover": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Frankenblob": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Frozen Gaming Chair": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Gaming Headset": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Ghost": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Gingerbread Cat": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Gingerbread Man": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Glory Coin": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Golf Ball": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Gravestone": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "GreatGuyBoom": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Hammer": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Happy Gingerbread": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Happy Home": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Heart": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Hook": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Hoopie": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Horseshoe": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Hot Chocolate": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Hotdog": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Hunt Token": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "I Survived Season 0": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Ice Cube": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Jingle Bell": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Jolly Chair": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Jolly Hat": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "KaiM": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Karful": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Kashy": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Kaye": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Keycard 3": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Khayri": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Lemon Slice": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Life Buoy": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "MISSING_CHARM": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Magnet": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Mega Token": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Melonkin": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Milo": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Mini Ban Hammer": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Mini Candy Cane": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Mini Disco Ball": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Mini Key": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Mini Portal": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Mini Present": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Mini Shining Star": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Mini Snowglobe": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Mini Unstable Portal": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "MiniBloxia": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Moai": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Money Bag": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Money Duffle": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Mud": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Mystery Block": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Ninja Star": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Nosniy": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Nosniy Games": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Ornament": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Paparazzi Camera": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Pawn": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Penguin": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Peppermint Candy": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Pierced Heart": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Police Siren": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Potion": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Potted Cactus": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Potted Flower": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Pufferfish": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Pumpkin Cat": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "RIA25 Award": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "RIVALS": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Rainbow": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Rocket Ship": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Rubber Duck": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Rune Ring": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Runes": {
+        "Extra":[],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Season 0": {
+        "Extra":{
+			"Unranked":[],
+			"Bronze 1":[],
+			"Bronze 2":[],
+			"Bronze 3":[],
+			"Silver 1":[],
+			"Silver 2":[],
+			"Silver 3":[],
+			"Gold 1":[],
+			"Gold 2":[],
+			"Gold 3":[],
+			"Platinum 1":[],
+			"Platinum 2":[],
+			"Platinum 3":[],
+			"Diamond 1":[],
+			"Diamond 2":[],
+			"Diamond 3":[],
+			"Onyx 1":[],
+			"Onyx 2":[],
+			"Onyx 3":[],
+			"Nemesis":[],
+			"Archnemesis":[]
+		},
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Season 1": {
+        "Extra":{
+			"Unranked":[],
+			"Bronze 1":[],
+			"Bronze 2":[],
+			"Bronze 3":[],
+			"Silver 1":[],
+			"Silver 2":[],
+			"Silver 3":[],
+			"Gold 1":[],
+			"Gold 2":[],
+			"Gold 3":[],
+			"Platinum 1":[],
+			"Platinum 2":[],
+			"Platinum 3":[],
+			"Diamond 1":[],
+			"Diamond 2":[],
+			"Diamond 3":[],
+			"Onyx 1":[],
+			"Onyx 2":[],
+			"Onyx 3":[],
+			"Nemesis":[],
+			"Archnemesis":[]
+		},
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Season 2": {
+        "Extra":{
+			"Unranked":[],
+			"Bronze 1":[],
+			"Bronze 2":[],
+			"Bronze 3":[],
+			"Silver 1":[],
+			"Silver 2":[],
+			"Silver 3":[],
+			"Gold 1":[],
+			"Gold 2":[],
+			"Gold 3":[],
+			"Platinum 1":[],
+			"Platinum 2":[],
+			"Platinum 3":[],
+			"Diamond 1":[],
+			"Diamond 2":[],
+			"Diamond 3":[],
+			"Onyx 1":[],
+			"Onyx 2":[],
+			"Onyx 3":[],
+			"Nemesis":[],
+			"Archnemesis":[]
+		},
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Season 3": {
+        "Extra":{
+			"Unranked":[],
+			"Bronze 1":[],
+			"Bronze 2":[],
+			"Bronze 3":[],
+			"Silver 1":[],
+			"Silver 2":[],
+			"Silver 3":[],
+			"Gold 1":[],
+			"Gold 2":[],
+			"Gold 3":[],
+			"Platinum 1":[],
+			"Platinum 2":[],
+			"Platinum 3":[],
+			"Diamond 1":[],
+			"Diamond 2":[],
+			"Diamond 3":[],
+			"Onyx 1":[],
+			"Onyx 2":[],
+			"Onyx 3":[],
+			"Nemesis":[],
+			"Archnemesis":[]
+		},
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Season 4": {
+        "Extra":{
+			"Unranked":[],
+			"Bronze 1":[],
+			"Bronze 2":[],
+			"Bronze 3":[],
+			"Silver 1":[],
+			"Silver 2":[],
+			"Silver 3":[],
+			"Gold 1":[],
+			"Gold 2":[],
+			"Gold 3":[],
+			"Platinum 1":[],
+			"Platinum 2":[],
+			"Platinum 3":[],
+			"Diamond 1":[],
+			"Diamond 2":[],
+			"Diamond 3":[],
+			"Onyx 1":[],
+			"Onyx 2":[],
+			"Onyx 3":[],
+			"Nemesis":[],
+			"Archnemesis":[]
+		},
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Season 5": {
+        "Extra":{
+			"Unranked":[],
+			"Bronze 1":[],
+			"Bronze 2":[],
+			"Bronze 3":[],
+			"Silver 1":[],
+			"Silver 2":[],
+			"Silver 3":[],
+			"Gold 1":[],
+			"Gold 2":[],
+			"Gold 3":[],
+			"Platinum 1":[],
+			"Platinum 2":[],
+			"Platinum 3":[],
+			"Diamond 1":[],
+			"Diamond 2":[],
+			"Diamond 3":[],
+			"Onyx 1":[],
+			"Onyx 2":[],
+			"Onyx 3":[],
+			"Nemesis":[],
+			"Archnemesis":[]
+		},
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Season 6": {
+        "Extra":{
+			"Unranked":[],
+			"Bronze 1":[],
+			"Bronze 2":[],
+			"Bronze 3":[],
+			"Silver 1":[],
+			"Silver 2":[],
+			"Silver 3":[],
+			"Gold 1":[],
+			"Gold 2":[],
+			"Gold 3":[],
+			"Platinum 1":[],
+			"Platinum 2":[],
+			"Platinum 3":[],
+			"Diamond 1":[],
+			"Diamond 2":[],
+			"Diamond 3":[],
+			"Onyx 1":[],
+			"Onyx 2":[],
+			"Onyx 3":[],
+			"Nemesis":[],
+			"Archnemesis":[]
+		},
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Season 7": {
+        "Extra":{
+			"Unranked":[],
+			"Bronze 1":[],
+			"Bronze 2":[],
+			"Bronze 3":[],
+			"Silver 1":[],
+			"Silver 2":[],
+			"Silver 3":[],
+			"Gold 1":[],
+			"Gold 2":[],
+			"Gold 3":[],
+			"Platinum 1":[],
+			"Platinum 2":[],
+			"Platinum 3":[],
+			"Diamond 1":[],
+			"Diamond 2":[],
+			"Diamond 3":[],
+			"Onyx 1":[],
+			"Onyx 2":[],
+			"Onyx 3":[],
+			"Nemesis":[],
+			"Archnemesis":[]
+		},
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Season 8": {
+        "Extra":{
+			"Unranked":[],
+			"Bronze 1":[],
+			"Bronze 2":[],
+			"Bronze 3":[],
+			"Silver 1":[],
+			"Silver 2":[],
+			"Silver 3":[],
+			"Gold 1":[],
+			"Gold 2":[],
+			"Gold 3":[],
+			"Platinum 1":[],
+			"Platinum 2":[],
+			"Platinum 3":[],
+			"Diamond 1":[],
+			"Diamond 2":[],
+			"Diamond 3":[],
+			"Onyx 1":[],
+			"Onyx 2":[],
+			"Onyx 3":[],
+			"Nemesis":[],
+			"Archnemesis":[]
+		},
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Season 9": {
+        "Extra":{
+			"Unranked":[],
+			"Bronze 1":[124447978601977,124961463394219,70774395985606,119410346335412],
+			"Bronze 2":[124961463394219,107120146850032,124447978601977,119410346335412],
+			"Bronze 3":[135739285769416,119410346335412,83477170664477,124109469972456],
+			"Silver 1":[],
+			"Silver 2":[],
+			"Silver 3":[],
+			"Gold 1":[],
+			"Gold 2":[],
+			"Gold 3":[],
+			"Platinum 1":[],
+			"Platinum 2":[],
+			"Platinum 3":[],
+			"Diamond 1":[91779499119701,119410346335412,88120204922307,83894412752515],
+			"Diamond 2":[91779499119701,119410346335412,88120204922307,98468747925728],
+			"Diamond 3":[],
+			"Onyx 1":[],
+			"Onyx 2":[],
+			"Onyx 3":[],
+			"Nemesis":[],
+			"Archnemesis":[113063106200904,122818928012866,129987253519708,107642235805523,119410346335412]
+		},
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Season 10": {
+        "Extra":{
+			"Unranked":[80016913456223,80925552040289,87636644625650],
+			"Bronze 1":[124961463394219,70774395985606,124447978601977,87636644625650],
+			"Bronze 2":[124447978601977,87636644625650,124961463394219,107120146850032],
+			"Bronze 3":[83477170664477,124109469972456,135739285769416,87636644625650],
+			"Silver 1":[94248216985003,87636644625650,130538698239007,70774395985606],
+			"Silver 2":[94248216985003,87636644625650,130538698239007,107120146850032],
+			"Silver 3":[85276645176503,94420258846522,87636644625650,124109469972456],
+			"Gold 1":[127768365605316,70774395985606,113810033173913,87636644625650],
+			"Gold 2":[113810033173913,87636644625650,127768365605316,107120146850032],
+			"Gold 3":[79219748136418,87636644625650,135444188840853,124109469972456],
+			"Platinum 1":[93733764868072,87636644625650,116683920373943,83894412752515],
+			"Platinum 2":[116683920373943,98468747925728,93733764868072,87636644625650],
+			"Platinum 3":[117901342701318,87636644625650,115057444548706,97298750337378],
+			"Diamond 1":[91779499119701,87636644625650,88120204922307,83894412752515],
+			"Diamond 2":[91779499119701,87636644625650,88120204922307,98468747925728],
+			"Diamond 3":[131177382247170,87636644625650,71713100147527,97298750337378],
+			"Onyx 1":[72889669399568,87636644625650,72393848772419,83894412752515],
+			"Onyx 2":[72393848772419,98468747925728,113850354525303,72889669399568,87636644625650,96298425748094],
+			"Onyx 3":[106113610642230,97298750337378,126792369222654,87636644625650,96298425748094,113850354525303],
+			"Nemesis":[137483795708473,87636644625650,85171481144881,129987253519708,117574583800963],
+			"Archnemesis":[113063106200904,122818928012866,129987253519708,107642235805523]
+		},
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "SenseiWarrior": {
+        "Extra":"17826548446",
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "ShadowTrojan": {
+        "Extra":[
+			125224822363882,
+			89034585685110
+		],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "SharkTactics": {
+        "Extra":[
+			107484094268762,
+			72080524066037
+		],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Ship Wheel": {
+        "Extra":"8312517296",
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Shooting Star": {
+        "Extra":"17888977297",
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Shredding Artwork": {
+        "Extra":[
+			111298755001031,
+			89494996618705,
+			95368825788156,
+			123885868918305,
+			91963465891464
+		],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Skull": {
+        "Extra":"139619430692922",
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Skullgourd": {
+        "Extra":[
+			14950756292,
+			14950756415,
+			14950756570,
+			14950756517
+		],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Sneaker": {
+        "Extra":[
+			86727996465475,
+			91052071221495
+		],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Snowblob": {
+        "Extra":[
+			104187742061637,
+			136721328272589,
+			125457801578520
+		],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Snowflake": {
+        "Extra":"138676426519672",
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Snowflake Ring": {
+        "Extra":[
+			81198243759827,
+			123604171350092
+		],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Snowflakes": {
+        "Extra":"103265577787156",
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Snowman": {
+        "Extra":[
+			131121051542634,
+			95894945823724,
+			113350989960529,
+			105566122856015,
+			106238295448184
+		],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Spider": {
+        "Extra":"130454376620435",
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Star": {
+        "Extra":"5499485428",
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Stefan": {
+        "Extra":[
+			113644662531876,
+			6098232478,
+			119379071850156,
+			99241493501327,
+			85744047642333,
+			6858317867
+		],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Stocking": {
+        "Extra":[
+			7902923893,
+			7902924122
+		],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Streamer Microphone": {
+        "Extra":[
+			107117861878287,
+			72422793108963,
+			134722129189947
+		],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Table Lamp": {
+        "Extra":[
+			118352552094706,
+			130437869085248,
+			84448860679752
+		],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "TanqR": {
+        "Extra":[
+			18542262586,
+			18542262613
+		],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Team Crown": {
+        "Extra":[
+			90613332571464,
+			129874284239351,
+			105356101363997
+		],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Tennis Ball": {
+        "Extra":[
+			5530901216,
+			5530901062
+		],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Thorn Circle": {
+        "Extra":"96251298891531",
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Traffic Cone": {
+        "Extra":[
+			4837603257,
+			4837603354
+		],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "UFO": {
+        "Extra":[
+			16834447679,
+			8763431221,
+			16834447884,
+			16834448069,
+			16896637795
+		],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "WE1RD": {
+        "Extra":[
+			140189195289402,
+			75406671308296
+		],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Warp Disc": {
+        "Extra":[
+			124560387406160,
+			10056026824,
+			120115844745710,
+			82823239531781,
+			116105717605502
+		],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Witch Hat": {
+        "Extra":[
+			5560191051,
+			5560191225
+		],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Wreath": {
+        "Extra":[
+			107031875566042,
+			140029191112928
+		],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "Yeti": {
+        "Extra":[
+			15555906599,
+			15555906469,
+			15555906543,
+			15921983539
+		],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "atorix": {
+        "Extra":[
+			111470144302140,
+			103319166606709
+		],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "elixir": {
+        "Extra":[
+			75771635097126,
+			107363007312191
+		],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "enriquebruv": {
+        "Extra":[
+			78808730258301,
+			137258201212301
+		],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "hoppy819": {
+        "Extra":[
+			78839560189373,
+			101276931691044
+		],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "nekoanims": {
+        "Extra":[
+			17826540348,
+			17739174054
+		],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "oPixel": {
+        "Extra":[
+			18542131727,
+			18542131760
+		],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "philhood": {
+        "Extra":[
+			119431753344426,
+			133177049352458
+		],
+        "Hook":"17551811873",
+        "Primary":"0"
+      },
+      "viecti": {
+        "Extra":[
+			94631393232989,
+			128206095955248,
+			136848891821416,
+			72370609970079,
+			77939796556249,
+			1365693
+		],
+        "Hook":"17551811873",
+        "Primary":"0"
+      }
+    },
+    "Wraps": {
+      "Texture Ids": {
+        ".Dll": "107259384430822",
+        ".Exe": "71439736099130",
+        "1bvisits": "121615997717548",
+        "2025wrapping": "83515541130518",
+        "2026wrapping": "119344076153316",
+        "Accretion2": "17598838173",
+        "Accretion3": "17598838173",
+        "Antimatter1": "87472982302531",
+        "Antimatter2": "87472982302531",
+        "Arbiter": "10056026824",
+        "Arcane1": "94165541706756",
+        "Arena": "7658055825",
+        "Aurora": "133150796121000",
+        "Aurum": "117108890999295",
+        "Bee1": "80902131288673",
+        "Blackopal": "107526026465844",
+        "Blaze1": "17836985524",
+        "Blushwrapping": "127753437423503",
+        "Bombastic1": "114738042640688",
+        "Bubbles": "124796745676624",
+        "Candle_1": "117509622720492",
+        "Candyglossy": "10056026824",
+        "Canedwrapping": "87518999729686",
+        "Carbonwrapping": "104929977176000",
+        "Cardboard1": "80590591696455",
+        "Celestial": "117357984162814",
+        "Celtic": "117602490973206",
+        "Chilled_wrapping_1": "122456453206982",
+        "Cold_metal_1": "82785253755914",
+        "Cremewrapping": "74202947476659",
+        "Crimsonart1": "101211127444338",
+        "Crystallized": "128510495623128",
+        "Danger1": "10056026824",
+        "Darkarena1": "7658055825",
+        "Darkmatter (Broken)": "117357984162814",
+        "Darkmesh": "135989547473439",
+        "Dawn1": "10056026824",
+        "Devourer": "82785253755914",
+        "Disco": "17590398130",
+        "Eco": "95605777629561",
+        "Empress": "103628328733648",
+        "Encroached1": "90981213127249",
+        "Eruption1": "107526026465844",
+        "Experience": "18437164098",
+        "Facility": "120998158571412",
+        "Fire": "18154887724",
+        "Fracture1": "90981213127249",
+        "Frigid": "103002091349038",
+        "Frostywrapping": "104929977176000",
+        "Gingerbread": "91231411635201",
+        "Glamour": "113472237340372",
+        "Goostudsg": "16144957841",
+        "Goowelds": "18445890274",
+        "Greensparkle1": "119918322703800",
+        "Greenflame1": "17836985524",
+        "Gunmetal": "76556449465721",
+        "Holly_wrapping_1": "127753437423503",
+        "Hologramarena1": "76766225253745",
+        "Honey1": "17591803674",
+        "Igneous": "134220640256348",
+        "Indigosparkle1": "119918322703800",
+        "Indigo_wrapping_1": "74202947476659",
+        "Inlets": "16144958110",
+        "Iridescent1": "117194291647291",
+        "Jollywrapping": "122456453206982",
+        "Lightmesh": "135989547473439",
+        "Lightning": "84041245562305",
+        "Limefire1": "123698579282998",
+        "Lovelyleopard1": "91479536716200",
+        "Luxe_1": "90981213127249",
+        "Luxurious": "107232540859220",
+        "Missing_wrap": "120578061586581",
+        "Magma": "17584073523",
+        "Magnetite": "126857495005467",
+        "Messis1": "99469469387194",
+        "Mintchocochip1": "106875590029410",
+        "Mintywrapping": "74202947476659",
+        "Mischief": "17836985524",
+        "Money": "120516745997404",
+        "Mummy": "113725708722120",
+        "Nebula1": "17590258932",
+        "Necromancer1": "82785253755914",
+        "Neonlights1": "139619591202299",
+        "Noir1": "10056026824",
+        "Normal1": "10056026824",
+        "Ornament_1": "129850186589193",
+        "Pearly_wrapping_1": "104929977176000",
+        "Peridot1": "87500851530348",
+        "Peril1": "78512950198698",
+        "Pine": "10056026824",
+        "Pixelblight": "98991297335885",
+        "Pixellight1": "98991297335885",
+        "Plaid_pajama_1": "89514129877461",
+        "Plasma1": "96741650977983",
+        "Polar_wrapping_1": "104929977176000",
+        "Portal": "10056026824",
+        "Quasar": "17833298904",
+        "Regal": "10056026824",
+        "Regal_wrapping_1": "122456453206982k",
+        "Rift": "100915937881186",
+        "Rivalswrapping": "15375670532",
+        "Scribble1": "112448109089773",
+        "Sentinel": "91971148945145",
+        "Shadowink1": "101211127444338",
+        "Slush1": "81429335681434",
+        "Snowfall": "94113212016987",
+        "Solar2": "111785647214791",
+        "Spectral": "10056026824",
+        "Spellsling": "71009827680754",
+        "Stocking_1": "82785253755914",
+        "Studs": "16144957841",
+        "Sunset": "76556449465721",
+        "Supernova": "17590284970",
+        "Tixwrap": "71749204057025",
+        "Tealur": "139979937140990",
+        "Tempest1": "111885284933261",
+        "Thunderburst": "133035414483139",
+        "Trophy": "18185331121",
+        "Tusky_1": "82785253755914",
+        "Ultrazed2": "114322324609202",
+        "Universal": "16144958351",
+        "Venom": "76556449465721",
+        "Vigor1": "78512950198698",
+        "Virus1": "86753964590900",
+        "Waste1": "10056026824",
+        "Water1": "117624745612255",
+        "Winterwrapping": "104929977176000",
+        "Wrapped_luxury_1": "122456453206982",
+        "Wrapped_fortune_1": "87518999729686",
+        "Epic": "108149221839661"
+      },
+        "Mapping Ids": {
+          "A5":{
+            "Colormap":"17589862803",
+            "Metalnessmap":"17589862765",
+            "Normalmap":"17589862792",
+            "Roughnessmap":"17589862799",
+            "Colormapcontent":"17589862803",
+            "Metalnessmapcontent":"17589862765",
+            "Normalmapcontent":"17589862792",
+            "Roughnessmapcontent":"17589862799"
+      },
+          "Aegis":{
+            "Colormap":"na",
+            "Metalnessmap":"100746634314832",
+            "Normalmap":"na",
+            "Roughnessmap":"128912834378921",
+            "Colormapcontent":"na",
+            "Metalnessmapcontent":"100746634314832",
+            "Normalmapcontent":"na",
+            "Roughnessmapcontent":"128912834378921"
+      },
+          "Amber":{
+            "Colormap":"17589090322",
+            "Metalnessmap":"17589090247",
+            "Normalmap":"17589090324",
+            "Roughnessmap":"17589090321",
+            "Colormapcontent":"17589090322",
+            "Metalnessmapcontent":"17589090247",
+            "Normalmapcontent":"17589090324",
+            "Roughnessmapcontent":"17589090321"
+      },
+          "Ancient1":{
+            "Colormap":"18641137812",
+            "Metalnessmap":"18641137597",
+            "Normalmap":"18641137693",
+            "Roughnessmap":"18641137646",
+            "Colormapcontent":"18641137812",
+            "Metalnessmapcontent":"18641137597",
+            "Normalmapcontent":"18641137693",
+            "Roughnessmapcontent":"18641137646"
+      },
+          "Ancient2":{
+            "Colormap":"18641148677",
+            "Metalnessmap":"18641148588",
+            "Normalmap":"18641148640",
+            "Roughnessmap":"18641148618",
+            "Colormapcontent":"18641148677",
+            "Metalnessmapcontent":"18641148588",
+            "Normalmapcontent":"18641148640",
+            "Roughnessmapcontent":"18641148618"
+      },
+          "Arabesque":{
+            "Colormap":"17581979496",
+            "Metalnessmap":"17581979410",
+            "Normalmap":"17581979502",
+            "Roughnessmap":"17581979438",
+            "Colormapcontent":"17581979496",
+            "Metalnessmapcontent":"17581979410",
+            "Normalmapcontent":"17581979502",
+            "Roughnessmapcontent":"17581979438"
+      },
+          "Arbiter":{
+            "Colormap":"70871237792108",
+            "Metalnessmap":"na",
+            "Normalmap":"83283728034272",
+            "Roughnessmap":"127155693471883",
+            "Colormapcontent":"70871237792108",
+            "Metalnessmapcontent":"na",
+            "Normalmapcontent":"83283728034272",
+            "Roughnessmapcontent":"127155693471883"
+      },
+          "Arctic Camo":{
+            "Colormap":"17617543134",
+            "Metalnessmap":"17617542984",
+            "Normalmap":"17617543126",
+            "Roughnessmap":"17617543091",
+            "Colormapcontent":"17617543134",
+            "Metalnessmapcontent":"17617542984",
+            "Normalmapcontent":"17617543126",
+            "Roughnessmapcontent":"17617543091"
+      },
+          "Aurum":{
+            "Colormap":"17588987919",
+            "Metalnessmap":"17588987499",
+            "Normalmap":"17588987595",
+            "Roughnessmap":"17588987578",
+            "Colormapcontent":"17588987919",
+            "Metalnessmapcontent":"17588987499",
+            "Normalmapcontent":"17588987595",
+            "Roughnessmapcontent":"17588987578"
+      },
+          "Bee":{
+            "Colormap":[],
+            "Metalnessmap":"100746634314832",
+            "Normalmap":[],
+            "Roughnessmap":"128912834378921",
+            "Colormapcontent":[],
+            "Metalnessmapcontent":"100746634314832",
+            "Normalmapcontent":[],
+            "Roughnessmapcontent":"128912834378921"
+      },
+          "Beewing":{
+            "Colormap":[],
+            "Metalnessmap":"100746634314832",
+            "Normalmap":[],
+            "Roughnessmap":"128912834378921",
+            "Colormapcontent":[],
+            "Metalnessmapcontent":"100746634314832",
+            "Normalmapcontent":[],
+            "Roughnessmapcontent":"128912834378921"
+      },
+          "Black Granite":{
+            "Colormap":"18644778799",
+            "Metalnessmap":"18644779211",
+            "Normalmap":"18644779163",
+            "Roughnessmap":"18644779453",
+            "Colormapcontent":"18644778799",
+            "Metalnessmapcontent":"18644779211",
+            "Normalmapcontent":"18644779163",
+            "Roughnessmapcontent":"18644779453"
+      },
+          "Black Opal":{
+            "Colormap":"17589042028",
+            "Metalnessmap":"17589041921",
+            "Normalmap":"17589042007",
+            "Roughnessmap":"17589041993",
+            "Colormapcontent":"17589042028",
+            "Metalnessmapcontent":"17589041921",
+            "Normalmapcontent":"17589042007",
+            "Roughnessmapcontent":"17589041993"
+      },
+          "Blackdamascus":{
+            "Colormap":"100934374113027",
+            "Metalnessmap":"110268976447969",
+            "Normalmap":"81217178723404",
+            "Roughnessmap":"109726021591376",
+            "Colormapcontent":"100934374113027",
+            "Metalnessmapcontent":"110268976447969",
+            "Normalmapcontent":"81217178723404",
+            "Roughnessmapcontent":"109726021591376"
+      },
+          "Bliss":{
+            "Colormap":[],
+            "Metalnessmap":"135923263838272",
+            "Normalmap":"137868992090530",
+            "Roughnessmap":"127663527074764",
+            "Colormapcontent":[],
+            "Metalnessmapcontent":"135923263838272",
+            "Normalmapcontent":"137868992090530",
+            "Roughnessmapcontent":"127663527074764"
+      },
+          "Bluesteel":{
+            "Colormap":[],
+            "Metalnessmap":"106433778543814",
+            "Normalmap":"112082353546886",
+            "Roughnessmap":"116257092607841",
+            "Colormapcontent":[],
+            "Metalnessmapcontent":"106433778543814",
+            "Normalmapcontent":"112082353546886",
+            "Roughnessmapcontent":"116257092607841"
+      },
+          "Brain":{
+            "Colormap":"17582694510",
+            "Metalnessmap":"17582694482",
+            "Normalmap":"17582694520",
+            "Roughnessmap":"17582694508",
+            "Colormapcontent":"17582694510",
+            "Metalnessmapcontent":"17582694482",
+            "Normalmapcontent":"17582694520",
+            "Roughnessmapcontent":"17582694508"
+      },
+          "Brushedmetal":{
+            "Colormap":"18640746828",
+            "Metalnessmap":"18640746450",
+            "Normalmap":"18640746595",
+            "Roughnessmap":"18640746490",
+            "Colormapcontent":"18640746828",
+            "Metalnessmapcontent":"18640746450",
+            "Normalmapcontent":"18640746595",
+            "Roughnessmapcontent":"18640746490"
+      },
+          "Bunsen":{
+            "Colormap":"17582812081",
+            "Metalnessmap":"17582812017",
+            "Normalmap":"17582812094",
+            "Roughnessmap":"17582812070",
+            "Colormapcontent":"17582812081",
+            "Metalnessmapcontent":"17582812017",
+            "Normalmapcontent":"17582812094",
+            "Roughnessmapcontent":"17582812070"
+      },
+          "Candyglossy":{
+            "Colormap":[],
+            "Metalnessmap":"135923263838272",
+            "Normalmap":"137868992090530",
+            "Roughnessmap":"127663527074764",
+            "Colormapcontent":[],
+            "Metalnessmapcontent":"135923263838272",
+            "Normalmapcontent":"137868992090530",
+            "Roughnessmapcontent":"127663527074764"
+      },
+          "Carbon Fiber":{
+            "Colormap":"18644677176",
+            "Metalnessmap":"18644677991",
+            "Normalmap":"18644678897",
+            "Roughnessmap":"18644679075",
+            "Colormapcontent":"18644677176",
+            "Metalnessmapcontent":"18644677991",
+            "Normalmapcontent":"18644678897",
+            "Roughnessmapcontent":"18644679075"
+      },
+          "Cardinal":{
+            "Colormap":"18654481822",
+            "Metalnessmap":"18654481715",
+            "Normalmap":"18654481815",
+            "Roughnessmap":"18654481774",
+            "Colormapcontent":"18654481822",
+            "Metalnessmapcontent":"18654481715",
+            "Normalmapcontent":"18654481815",
+            "Roughnessmapcontent":"18654481774"
+      },
+          "Carmine":{
+            "Colormap":[],
+            "Metalnessmap":"74373897563307",
+            "Normalmap":"129009017656218",
+            "Roughnessmap":"119965037739668",
+            "Colormapcontent":[],
+            "Metalnessmapcontent":"74373897563307",
+            "Normalmapcontent":"129009017656218",
+            "Roughnessmapcontent":"119965037739668"
+      },
+          "Carpet":{
+            "Colormap":"17582274624",
+            "Metalnessmap":"17582274542",
+            "Normalmap":"17582274647",
+            "Roughnessmap":"17582274604",
+            "Colormapcontent":"17582274624",
+            "Metalnessmapcontent":"17582274542",
+            "Normalmapcontent":"17582274647",
+            "Roughnessmapcontent":"17582274604"
+      },
+          "Cheese":{
+            "Colormap":"114461270121610",
+            "Metalnessmap":"86821129652650",
+            "Normalmap":"102684331973378",
+            "Roughnessmap":"74427389833714",
+            "Colormapcontent":"114461270121610",
+            "Metalnessmapcontent":"86821129652650",
+            "Normalmapcontent":"102684331973378",
+            "Roughnessmapcontent":"74427389833714"
+      },
+          "Cheesecloth":{
+            "Colormap":"84927259026812",
+            "Metalnessmap":"111986030838093",
+            "Normalmap":"111913983285363",
+            "Roughnessmap":"135693340052914",
+            "Colormapcontent":"84927259026812",
+            "Metalnessmapcontent":"111986030838093",
+            "Normalmapcontent":"111913983285363",
+            "Roughnessmapcontent":"135693340052914"
+      },
+          "Chrome Webs":{
+            "Colormap":[],
+            "Metalnessmap":[],
+            "Normalmap":"83028082093331",
+            "Roughnessmap":"72499713279864",
+            "Colormapcontent":[],
+            "Metalnessmapcontent":[],
+            "Normalmapcontent":"83028082093331",
+            "Roughnessmapcontent":"72499713279864"
+      },
+          "Circuit":{
+            "Colormap":"17582840149",
+            "Metalnessmap":"17582840086",
+            "Normalmap":"17582840132",
+            "Roughnessmap":"17582840128",
+            "Colormapcontent":"17582840149",
+            "Metalnessmapcontent":"17582840086",
+            "Normalmapcontent":"17582840132",
+            "Roughnessmapcontent":"17582840128"
+      },
+          "Clamshell":{
+            "Colormap":"18644509922",
+            "Metalnessmap":"18644509860",
+            "Normalmap":"18644509917",
+            "Roughnessmap":"18644509904",
+            "Colormapcontent":"18644509922",
+            "Metalnessmapcontent":"18644509860",
+            "Normalmapcontent":"18644509917",
+            "Roughnessmapcontent":"18644509904"
+      },
+          "Clouds":{
+            "Colormap":"17582658005",
+            "Metalnessmap":"17582657925",
+            "Normalmap":"17582657974",
+            "Roughnessmap":"17582657960",
+            "Colormapcontent":"17582658005",
+            "Metalnessmapcontent":"17582657925",
+            "Normalmapcontent":"17582657974",
+            "Roughnessmapcontent":"17582657960"
+      },
+          "Cluster":{
+            "Colormap":"17589931460",
+            "Metalnessmap":"17589931398",
+            "Normalmap":"17589931459",
+            "Roughnessmap":"17589931453",
+            "Colormapcontent":"17589931460",
+            "Metalnessmapcontent":"17589931398",
+            "Normalmapcontent":"17589931459",
+            "Roughnessmapcontent":"17589931453"
+      },
+          "Cork":{
+            "Colormap":"18644835018",
+            "Metalnessmap":"18644835090",
+            "Normalmap":"18644835671",
+            "Roughnessmap":"18644835571",
+            "Colormapcontent":"18644835018",
+            "Metalnessmapcontent":"18644835090",
+            "Normalmapcontent":"18644835671",
+            "Roughnessmapcontent":"18644835571"
+      },
+          "Crimsonart":{
+            "Colormap":[],
+            "Metalnessmap":"102956853933457",
+            "Normalmap":"98882627825480",
+            "Roughnessmap":[],
+            "Colormapcontent":[],
+            "Metalnessmapcontent":"102956853933457",
+            "Normalmapcontent":"98882627825480",
+            "Roughnessmapcontent":[]
+      },
+          "Crochet":{
+            "Colormap":"18644419469",
+            "Metalnessmap":"18644419315",
+            "Normalmap":"18644419461",
+            "Roughnessmap":"18644419391",
+            "Colormapcontent":"18644419469",
+            "Metalnessmapcontent":"18644419315",
+            "Normalmapcontent":"18644419461",
+            "Roughnessmapcontent":"18644419391"
+      },
+          "Crossed":{
+            "Colormap":"17582603144",
+            "Metalnessmap":"17582603000",
+            "Normalmap":"17582603121",
+            "Roughnessmap":"17582603066",
+            "Colormapcontent":"17582603144",
+            "Metalnessmapcontent":"17582603000",
+            "Normalmapcontent":"17582603121",
+            "Roughnessmapcontent":"17582603066"
+      },
+          "Damascus":{
+            "Colormap":[],
+            "Metalnessmap":"79480216004456",
+            "Normalmap":"112765890447076",
+            "Roughnessmap":"90143470472297",
+            "Colormapcontent":[],
+            "Metalnessmapcontent":"79480216004456",
+            "Normalmapcontent":"112765890447076",
+            "Roughnessmapcontent":"90143470472297"
+      },
+          "Desert Camo":{
+            "Colormap":"17617657895",
+            "Metalnessmap":"17617657686",
+            "Normalmap":"17617657849",
+            "Roughnessmap":"17617657790",
+            "Colormapcontent":"17617657895",
+            "Metalnessmapcontent":"17617657686",
+            "Normalmapcontent":"17617657849",
+            "Roughnessmapcontent":"17617657790"
+      },
+          "Developore":{
+            "Colormap":"121084523633725",
+            "Metalnessmap":"100080364483867",
+            "Normalmap":[],
+            "Roughnessmap":"126387283648784",
+            "Colormapcontent":"121084523633725",
+            "Metalnessmapcontent":"100080364483867",
+            "Normalmapcontent":[],
+            "Roughnessmapcontent":"126387283648784"
+      },
+          "Diamond":{
+            "Colormap":"129778812616013",
+            "Metalnessmap":"77112774850148",
+            "Normalmap":"84933012431915",
+            "Roughnessmap":"79680906891064",
+            "Colormapcontent":"1297788126160",
+            "Metalnessmapcontent":"77112774850148",
+            "Normalmapcontent":"84933012431915",
+            "Roughnessmapcontent":"79680906891064"
+      },
+          "Digital Camo":{
+            "Colormap":"17617677593",
+            "Metalnessmap":"17617677516",
+            "Normalmap":"17617677602",
+            "Roughnessmap":"17617677568",
+            "Colormapcontent":"17617677593",
+            "Metalnessmapcontent":"17617677516",
+            "Normalmapcontent":"17617677602",
+            "Roughnessmapcontent":"17617677568"
+      },
+          "Encrypt":{
+            "Colormap":"18655987724",
+            "Metalnessmap":"18655987573",
+            "Normalmap":"18655987699",
+            "Roughnessmap":"18655987669",
+            "Colormapcontent":"18655987724",
+            "Metalnessmapcontent":"18655987573",
+            "Normalmapcontent":"18655987699",
+            "Roughnessmapcontent":"18655987669"
+      },
+          "Forest Camo":{
+            "Colormap":"17582313053",
+            "Metalnessmap":"17582312955",
+            "Normalmap":"17582313039",
+            "Roughnessmap":"17582313024",
+            "Colormapcontent":"17582313053",
+            "Metalnessmapcontent":"17582312955",
+            "Normalmapcontent":"17582313039",
+            "Roughnessmapcontent":"17582313024"
+      },
+          "Frankenstein":{
+            "Colormap":"101666777577078",
+            "Metalnessmap":"96829113203676",
+            "Normalmap":"78472319720365",
+            "Roughnessmap":"75482356552293",
+            "Colormapcontent":"101666777577078",
+            "Metalnessmapcontent":"96829113203676",
+            "Normalmapcontent":"78472319720365",
+            "Roughnessmapcontent":"75482356552293"
+      },
+          "Frankenstein Metal":{
+            "Colormap":"127386926272763",
+            "Metalnessmap":"95749013773619",
+            "Normalmap":"99107150535335",
+            "Roughnessmap":"77725994467558",
+            "Colormapcontent":"127386926272763",
+            "Metalnessmapcontent":"95749013773619",
+            "Normalmapcontent":"99107150535335",
+            "Roughnessmapcontent":"77725994467558"
+      },
+          "Frosted":{
+            "Colormap":"17589378611",
+            "Metalnessmap":"17589378440",
+            "Normalmap":"17589378543",
+            "Roughnessmap":"17589378504",
+            "Colormapcontent":"17589378611",
+            "Metalnessmapcontent":"17589378440",
+            "Normalmapcontent":"17589378543",
+            "Roughnessmapcontent":"17589378504"
+      },
+          "Geometric":{
+            "Colormap":[],
+            "Metalnessmap":"136514486309332",
+            "Normalmap":"104139592751798",
+            "Roughnessmap":"85642223277021",
+            "Colormapcontent":[],
+            "Metalnessmapcontent":"136514486309332",
+            "Normalmapcontent":"104139592751798",
+            "Roughnessmapcontent":"85642223277021"
+      },
+          "Gingerbread":{
+            "Colormap":"75296402212409",
+            "Metalnessmap":"86640424600767",
+            "Normalmap":"83774846975719",
+            "Roughnessmap":"74037401725552",
+            "Colormapcontent":"75296402212409",
+            "Metalnessmapcontent":"86640424600767",
+            "Normalmapcontent":"83774846975719",
+            "Roughnessmapcontent":"74037401725552"
+      },
+          "Glacier":{
+            "Colormap":[],
+            "Metalnessmap":"17589037508",
+            "Normalmap":"111635301841049",
+            "Roughnessmap":[],
+            "Colormapcontent":[],
+            "Metalnessmapcontent":"17589037508",
+            "Normalmapcontent":"111635301841049",
+            "Roughnessmapcontent":[]
+      },
+          "Glamour":{
+            "Colormap":[],
+            "Metalnessmap":[],
+            "Normalmap":[],
+            "Roughnessmap":[],
+            "Colormapcontent":[],
+            "Metalnessmapcontent":[],
+            "Normalmapcontent":[],
+            "Roughnessmapcontent":[]
+      },
+          "Glisten":{
+            "Colormap":"17588939827",
+            "Metalnessmap":"17588939743",
+            "Normalmap":"17588939832",
+            "Roughnessmap":"17588939808",
+            "Colormapcontent":"17588939827",
+            "Metalnessmapcontent":"17588939743",
+            "Normalmapcontent":"17588939832",
+            "Roughnessmapcontent":"17588939808"
+      },
+          "Glossy":{
+            "Colormap":"17591803719",
+            "Metalnessmap":"17591803633",
+            "Normalmap":"17591803707",
+            "Roughnessmap":"17591803674",
+            "Colormapcontent":"17591803719",
+            "Metalnessmapcontent":"17591803633",
+            "Normalmapcontent":"17591803707",
+            "Roughnessmapcontent":"17591803674"
+      },
+          "Glossycandycane":{
+            "Colormap":"117095826772081",
+            "Metalnessmap":"119774529660953",
+            "Normalmap":"102216150567057",
+            "Roughnessmap":"73829875126441",
+            "Colormapcontent":"117095826772081",
+            "Metalnessmapcontent":"119774529660953",
+            "Normalmapcontent":"102216150567057",
+            "Roughnessmapcontent":"73829875126441"
+      },
+          "Glossycandycane2":{
+            "Colormap":"109558771056849",
+            "Metalnessmap":"119774529660953",
+            "Normalmap":"102216150567057",
+            "Roughnessmap":"73829875126441",
+            "Colormapcontent":"109558771056849",
+            "Metalnessmapcontent":"119774529660953",
+            "Normalmapcontent":"102216150567057",
+            "Roughnessmapcontent":"73829875126441"
+      },
+          "Glossygeneric":{
+            "Colormap":[],
+            "Metalnessmap":"135923263838272",
+            "Normalmap":"137868992090530",
+            "Roughnessmap":"127663527074764",
+            "Colormapcontent":[],
+            "Metalnessmapcontent":"135923263838272",
+            "Normalmapcontent":"137868992090530",
+            "Roughnessmapcontent":"127663527074764"
+      },
+          "Grass1":{
+            "Colormap":"18641195221",
+            "Metalnessmap":"18641194933",
+            "Normalmap":"18641195036",
+            "Roughnessmap":"18641194990",
+            "Colormapcontent":"18641195221",
+            "Metalnessmapcontent":"18641194933",
+            "Normalmapcontent":"18641195036",
+            "Roughnessmapcontent":"18641194990"
+      },
+          "Groove":{
+            "Colormap":"18211690779",
+            "Metalnessmap":"18211690706",
+            "Normalmap":"18211690768",
+            "Roughnessmap":"18211690743",
+            "Colormapcontent":"18211690779",
+            "Metalnessmapcontent":"18211690706",
+            "Normalmapcontent":"18211690768",
+            "Roughnessmapcontent":"18211690743"
+      },
+          "Hammered":{
+            "Colormap":[],
+            "Metalnessmap":"86420310912076",
+            "Normalmap":"82486611042068",
+            "Roughnessmap":"76413643901253",
+            "Colormapcontent":[],
+            "Metalnessmapcontent":"86420310912076",
+            "Normalmapcontent":"82486611042068",
+            "Roughnessmapcontent":"76413643901253"
+      },
+          "Hesper":{
+            "Colormap":"17582886345",
+            "Metalnessmap":"17582886313",
+            "Normalmap":"17582886341",
+            "Roughnessmap":"17582886349",
+            "Colormapcontent":"17582886345",
+            "Metalnessmapcontent":"17582886313",
+            "Normalmapcontent":"17582886341",
+            "Roughnessmapcontent":"17582886349"
+      },
+          "Honey":{
+            "Colormap":[],
+            "Metalnessmap":"96030697377248",
+            "Normalmap":"87001153819521",
+            "Roughnessmap":"92853442776873",
+            "Colormapcontent":[],
+            "Metalnessmapcontent":"96030697377248",
+            "Normalmapcontent":"87001153819521",
+            "Roughnessmapcontent":"92853442776873"
+      },
+          "Honeycomb":{
+            "Colormap":"111808084543740",
+            "Metalnessmap":[],
+            "Normalmap":"113733858629044",
+            "Roughnessmap":[],
+            "Colormapcontent":"111808084543740",
+            "Metalnessmapcontent":[],
+            "Normalmapcontent":"113733858629044",
+            "Roughnessmapcontent":[]
+      },
+          "Hyperdrive":{
+            "Colormap":"18656115244",
+            "Metalnessmap":"18656115117",
+            "Normalmap":"18656115248",
+            "Roughnessmap":"18656115200",
+            "Colormapcontent":"18656115244",
+            "Metalnessmapcontent":"18656115117",
+            "Normalmapcontent":"18656115248",
+            "Roughnessmapcontent":"18656115200"
+      },
+          "Hypnotic 1":{
+            "Colormap":"18655823575",
+            "Metalnessmap":"18655823343",
+            "Normalmap":"18655823556",
+            "Roughnessmap":"18655823422",
+            "Colormapcontent":"18655823575",
+            "Metalnessmapcontent":"18655823343",
+            "Normalmapcontent":"18655823556",
+            "Roughnessmapcontent":"18655823422"
+      },
+          "Hypnotic 2":{
+            "Colormap":"18655839320",
+            "Metalnessmap":"18655839096",
+            "Normalmap":"18655839184",
+            "Roughnessmap":"18655839144",
+            "Colormapcontent":"18655839320",
+            "Metalnessmapcontent":"18655839096",
+            "Normalmapcontent":"18655839184",
+            "Roughnessmapcontent":"18655839144"
+      },
+          "Insidious":{
+            "Colormap":"17588995235",
+            "Metalnessmap":"17588995187",
+            "Normalmap":"17588995267",
+            "Roughnessmap":"17588995237",
+            "Colormapcontent":"17588995235",
+            "Metalnessmapcontent":"17588995187",
+            "Normalmapcontent":"17588995267",
+            "Roughnessmapcontent":"17588995237"
+      },
+          "Insignia":{
+            "Colormap":"18641348088",
+            "Metalnessmap":"18641347929",
+            "Normalmap":"18641348089",
+            "Roughnessmap":"18641348063",
+            "Colormapcontent":"18641348088",
+            "Metalnessmapcontent":"18641347929",
+            "Normalmapcontent":"18641348089",
+            "Roughnessmapcontent":"18641348063"
+      },
+          "K_material":{
+            "Colormap":[],
+            "Metalnessmap":"135923263838272",
+            "Normalmap":"137868992090530",
+            "Roughnessmap":"127663527074764",
+            "Colormapcontent":[],
+            "Metalnessmapcontent":"135923263838272",
+            "Normalmapcontent":"137868992090530",
+            "Roughnessmapcontent":"127663527074764"
+      },
+          "Lavishcrystal":{
+            "Colormap":[],
+            "Metalnessmap":"17589037508",
+            "Normalmap":"81426768920073",
+            "Roughnessmap":"132540389553062",
+            "Colormapcontent":[],
+            "Metalnessmapcontent":"17589037508",
+            "Normalmapcontent":"81426768920073",
+            "Roughnessmapcontent":"132540389553062"
+      },
+          "Leafy Grass":{
+            "Colormap":"18644722588",
+            "Metalnessmap":"18644722750",
+            "Normalmap":"18644723221",
+            "Roughnessmap":"18644723502",
+            "Colormapcontent":"18644722588",
+            "Metalnessmapcontent":"18644722750",
+            "Normalmapcontent":"18644723221",
+            "Roughnessmapcontent":"18644723502"
+      },
+          "Limefiremat":{
+            "Colormap":[],
+            "Metalnessmap":"135923263838272",
+            "Normalmap":"134435564236648",
+            "Roughnessmap":"127663527074764",
+            "Colormapcontent":[],
+            "Metalnessmapcontent":"135923263838272",
+            "Normalmapcontent":"134435564236648",
+            "Roughnessmapcontent":"127663527074764"
+      },
+          "Liquid Chrome":{
+            "Colormap":"18641282500",
+            "Metalnessmap":"18641282415",
+            "Normalmap":"18641282505",
+            "Roughnessmap":"93524032648502",
+            "Colormapcontent":"18641282500",
+            "Metalnessmapcontent":"18641282415",
+            "Normalmapcontent":"18641282505",
+            "Roughnessmapcontent":"93524032648502"
+      },
+          "Liquid Gold":{
+            "Colormap":"18641274805",
+            "Metalnessmap":"18641274662",
+            "Normalmap":"18641274943",
+            "Roughnessmap":"93524032648502",
+            "Colormapcontent":"18641274805",
+            "Metalnessmapcontent":"18641274662",
+            "Normalmapcontent":"18641274943",
+            "Roughnessmapcontent":"93524032648502"
+      },
+          "Lumber":{
+            "Colormap":"11328578444",
+            "Metalnessmap":[],
+            "Normalmap":"11327525324",
+            "Roughnessmap":"11327525435",
+            "Colormapcontent":"11328578444",
+            "Metalnessmapcontent":[],
+            "Normalmapcontent":"11327525324",
+            "Roughnessmapcontent":"11327525435"
+      },
+          "Mahogany Wood":{
+            "Colormap":"18654114690",
+            "Metalnessmap":"18654114505",
+            "Normalmap":"18654114656",
+            "Roughnessmap":"18654114599",
+            "Colormapcontent":"18654114690",
+            "Metalnessmapcontent":"18654114505",
+            "Normalmapcontent":"18654114656",
+            "Roughnessmapcontent":"18654114599"
+      },
+          "Mainframe":{
+            "Colormap":"17582847642",
+            "Metalnessmap":"17582847574",
+            "Normalmap":"17582847629",
+            "Roughnessmap":"17582847609",
+            "Colormapcontent":"17582847642",
+            "Metalnessmapcontent":"17582847574",
+            "Normalmapcontent":"17582847629",
+            "Roughnessmapcontent":"17582847609"
+      },
+          "Malachite":{
+            "Colormap":"17570628587",
+            "Metalnessmap":"17570628532",
+            "Normalmap":"17570628576",
+            "Roughnessmap":"17570628566",
+            "Colormapcontent":"17570628587",
+            "Metalnessmapcontent":"17570628532",
+            "Normalmapcontent":"17570628576",
+            "Roughnessmapcontent":"17570628566"
+      },
+          "Malevolent":{
+            "Colormap":"17582809337",
+            "Metalnessmap":"17582809245",
+            "Normalmap":"17582809307",
+            "Roughnessmap":"17582809305",
+            "Colormapcontent":"17582809337",
+            "Metalnessmapcontent":"17582809245",
+            "Normalmapcontent":"17582809307",
+            "Roughnessmapcontent":"17582809305"
+      },
+          "Mammothfur":{
+            "Colormap":"128174483038108",
+            "Metalnessmap":"116814075876978",
+            "Normalmap":"126364117867207",
+            "Roughnessmap":"120995876840209",
+            "Colormapcontent":"128174483038108",
+            "Metalnessmapcontent":"116814075876978",
+            "Normalmapcontent":"126364117867207",
+            "Roughnessmapcontent":"120995876840209"
+      },
+          "Moonstone":{
+            "Colormap":"17589164975",
+            "Metalnessmap":"17589164916",
+            "Normalmap":"17589164973",
+            "Roughnessmap":"17589165190",
+            "Colormapcontent":"17589164975",
+            "Metalnessmapcontent":"17589164916",
+            "Normalmapcontent":"17589164973",
+            "Roughnessmapcontent":"17589165190"
+      },
+          "Necromancerglossy":{
+            "Colormap":[],
+            "Metalnessmap":"135923263838272",
+            "Normalmap":"137868992090530",
+            "Roughnessmap":"127663527074764",
+            "Colormapcontent":[],
+            "Metalnessmapcontent":"135923263838272",
+            "Normalmapcontent":"137868992090530",
+            "Roughnessmapcontent":"127663527074764"
+      },
+          "Neo":{
+            "Colormap":"18641017664",
+            "Metalnessmap":"18641017562",
+            "Normalmap":"18641017657",
+            "Roughnessmap":"18641017622",
+            "Colormapcontent":"18641017664",
+            "Metalnessmapcontent":"18641017562",
+            "Normalmapcontent":"18641017657",
+            "Roughnessmapcontent":"18641017622"
+      },
+          "Nova":{
+            "Colormap":"17589931460",
+            "Metalnessmap":"17589931398",
+            "Normalmap":"17589931459",
+            "Roughnessmap":"17589931453",
+            "Colormapcontent":"17589931460",
+            "Metalnessmapcontent":"17589931398",
+            "Normalmapcontent":"17589931459",
+            "Roughnessmapcontent":"17589931453"
+      },
+          "Ocean Camo":{
+            "Colormap":"17617613100",
+            "Metalnessmap":"17617613032",
+            "Normalmap":"17617613084",
+            "Roughnessmap":"17617613075",
+            "Colormapcontent":"17617613100",
+            "Metalnessmapcontent":"17617613032",
+            "Normalmapcontent":"17617613084",
+            "Roughnessmapcontent":"17617613075"
+      },
+          "Omnisand":{
+            "Colormap":"17589348648",
+            "Metalnessmap":"17589348575",
+            "Normalmap":"17589348639",
+            "Roughnessmap":"17589348633",
+            "Colormapcontent":"17589348648",
+            "Metalnessmapcontent":"17589348575",
+            "Normalmapcontent":"17589348639",
+            "Roughnessmapcontent":"17589348633"
+      },
+          "Pb & J":{
+            "Colormap":"17589854809",
+            "Metalnessmap":"17589854740",
+            "Normalmap":"17589854812",
+            "Roughnessmap":"17589854801",
+            "Colormapcontent":"17589854809",
+            "Metalnessmapcontent":"17589854740",
+            "Normalmapcontent":"17589854812",
+            "Roughnessmapcontent":"17589854801"
+      },
+          "Pbrsimplemetallic":{
+            "Colormap":[],
+            "Metalnessmap":"134488833607670",
+            "Normalmap":[],
+            "Roughnessmap":[],
+            "Colormapcontent":[],
+            "Metalnessmapcontent":"134488833607670",
+            "Normalmapcontent":[],
+            "Roughnessmapcontent":[]
+      },
+          "Paint":{
+            "Colormap":"18129622046",
+            "Metalnessmap":"18129621984",
+            "Normalmap":"93524032648502",
+            "Roughnessmap":"82348794042057",
+            "Colormapcontent":"18129622046",
+            "Metalnessmapcontent":"18129621984",
+            "Normalmapcontent":"93524032648502",
+            "Roughnessmapcontent":"82348794042057"
+      },
+          "Pajamafur":{
+            "Colormap":"128174483038108",
+            "Metalnessmap":"116814075876978",
+            "Normalmap":"126364117867207",
+            "Roughnessmap":"120995876840209",
+            "Colormapcontent":"128174483038108",
+            "Metalnessmapcontent":"116814075876978",
+            "Normalmapcontent":"126364117867207",
+            "Roughnessmapcontent":"120995876840209"
+      },
+          "Patriot":{
+            "Colormap":"17582870627",
+            "Metalnessmap":"17582870583",
+            "Normalmap":"17582870615",
+            "Roughnessmap":"17582870605",
+            "Colormapcontent":"17582870627",
+            "Metalnessmapcontent":"17582870583",
+            "Normalmapcontent":"17582870615",
+            "Roughnessmapcontent":"17582870605"
+      },
+          "Pearlescent":{
+            "Colormap":[],
+            "Metalnessmap":"96030697377248",
+            "Normalmap":"87001153819521",
+            "Roughnessmap":[],
+            "Colormapcontent":[],
+            "Metalnessmapcontent":"96030697377248",
+            "Normalmapcontent":"87001153819521",
+            "Roughnessmapcontent":[]
+      },
+          "Peridotmat":{
+            "Colormap":[],
+            "Metalnessmap":"135923263838272",
+            "Normalmap":"134435564236648",
+            "Roughnessmap":"127663527074764",
+            "Colormapcontent":[],
+            "Metalnessmapcontent":"135923263838272",
+            "Normalmapcontent":"134435564236648",
+            "Roughnessmapcontent":"127663527074764"
+      },
+          "Peril":{
+            "Colormap":"17591803719",
+            "Metalnessmap":"17591803633",
+            "Normalmap":"17591803707",
+            "Roughnessmap":"17591803674",
+            "Colormapcontent":"17591803719",
+            "Metalnessmapcontent":"17591803633",
+            "Normalmapcontent":"17591803707",
+            "Roughnessmapcontent":"17591803674"
+      },
+          "Pine":{
+            "Colormap":"11328578444",
+            "Metalnessmap":[],
+            "Normalmap":"11327525324",
+            "Roughnessmap":"11327525435",
+            "Colormapcontent":"11328578444",
+            "Metalnessmapcontent":[],
+            "Normalmapcontent":"11327525324",
+            "Roughnessmapcontent":"11327525435"
+      },
+          "Pink Glitter":{
+            "Colormap":[],
+            "Metalnessmap":"114795919439328",
+            "Normalmap":"116726481763466",
+            "Roughnessmap":"127220873690660",
+            "Colormapcontent":[],
+            "Metalnessmapcontent":"114795919439328",
+            "Normalmapcontent":"116726481763466",
+            "Roughnessmapcontent":"127220873690660"
+      },
+          "Purpleize":{
+            "Colormap":[],
+            "Metalnessmap":"95621819055850",
+            "Normalmap":"112019875945311",
+            "Roughnessmap":"127566021877932",
+            "Colormapcontent":[],
+            "Metalnessmapcontent":"95621819055850",
+            "Normalmapcontent":"112019875945311",
+            "Roughnessmapcontent":"127566021877932"
+      },
+          "Rblxpckge":{
+            "Colormap":"85315421497372",
+            "Metalnessmap":[],
+            "Normalmap":[],
+            "Roughnessmap":[],
+            "Colormapcontent":"85315421497372",
+            "Metalnessmapcontent":[],
+            "Normalmapcontent":[],
+            "Roughnessmapcontent":[]
+      },
+          "Rage":{
+            "Colormap":"17582378136",
+            "Metalnessmap":"17582378084",
+            "Normalmap":"17582378125",
+            "Roughnessmap":"17582378117",
+            "Colormapcontent":"17582378136",
+            "Metalnessmapcontent":"17582378084",
+            "Normalmapcontent":"17582378125",
+            "Roughnessmapcontent":"17582378117"
+      },
+          "Regalfabric":{
+            "Colormap":"111136973658733",
+            "Metalnessmap":[],
+            "Normalmap":"135694376518944",
+            "Roughnessmap":"76014704291105",
+            "Colormapcontent":"111136973658733",
+            "Metalnessmapcontent":[],
+            "Normalmapcontent":"135694376518944",
+            "Roughnessmapcontent":"76014704291105"
+      },
+          "Reptile":{
+            "Colormap":"17589127040",
+            "Metalnessmap":"17589126950",
+            "Normalmap":"17589127044",
+            "Roughnessmap":"17589127028",
+            "Colormapcontent":"17589127040",
+            "Metalnessmapcontent":"17589126950",
+            "Normalmapcontent":"17589127044",
+            "Roughnessmapcontent":"17589127028"
+      },
+          "Resolute":{
+            "Colormap":"18655847054",
+            "Metalnessmap":"18655846896",
+            "Normalmap":"18655846950",
+            "Roughnessmap":"18655846941",
+            "Colormapcontent":"18655847054",
+            "Metalnessmapcontent":"18655846896",
+            "Normalmapcontent":"18655846950",
+            "Roughnessmapcontent":"18655846941"
+      },
+          "Rivalrymaterial":{
+            "Colormap":[],
+            "Metalnessmap":"100746634314832",
+            "Normalmap":[],
+            "Roughnessmap":"128912834378921",
+            "Colormapcontent":[],
+            "Metalnessmapcontent":"100746634314832",
+            "Normalmapcontent":[],
+            "Roughnessmapcontent":"128912834378921"
+      },
+          "Rusticwood":{
+            "Colormap":"17582925420",
+            "Metalnessmap":"17582925359",
+            "Normalmap":"17582925415",
+            "Roughnessmap":"17582925394",
+            "Colormapcontent":"17582925420",
+            "Metalnessmapcontent":"17582925359",
+            "Normalmapcontent":"17582925415",
+            "Roughnessmapcontent":"17582925394"
+      },
+          "Scales":{
+            "Colormap":"17581324777",
+            "Metalnessmap":[],
+            "Normalmap":"17581490923",
+            "Roughnessmap":[],
+            "Colormapcontent":"17581324777",
+            "Metalnessmapcontent":[],
+            "Normalmapcontent":"17581490923",
+            "Roughnessmapcontent":[]
+      },
+          "Scorched":{
+            "Colormap":"17582755368",
+            "Metalnessmap":"17582755317",
+            "Normalmap":"17582755359",
+            "Roughnessmap":"17582755347",
+            "Colormapcontent":"17582755368",
+            "Metalnessmapcontent":"17582755317",
+            "Normalmapcontent":"17582755359",
+            "Roughnessmapcontent":"17582755347"
+      },
+          "Scourge":{
+            "Colormap":"98870437335087",
+            "Metalnessmap":"91966623576070",
+            "Normalmap":[],
+            "Roughnessmap":[],
+            "Colormapcontent":"98870437335087",
+            "Metalnessmapcontent":"91966623576070",
+            "Normalmapcontent":[],
+            "Roughnessmapcontent":[]
+      },
+          "Scribblewrapping":{
+            "Colormap":"70369684461131",
+            "Metalnessmap":"125298060223774",
+            "Normalmap":"126665103448625",
+            "Roughnessmap":"137381161016120",
+            "Colormapcontent":"70369684461131",
+            "Metalnessmapcontent":"125298060223774",
+            "Normalmapcontent":"126665103448625",
+            "Roughnessmapcontent":"137381161016120"
+      },
+          "Slime":{
+            "Colormap":"17582785346",
+            "Metalnessmap":"17582785287",
+            "Normalmap":"17582785350",
+            "Roughnessmap":"17582785352",
+            "Colormapcontent":"17582785346",
+            "Metalnessmapcontent":"17582785287",
+            "Normalmapcontent":"17582785350",
+            "Roughnessmapcontent":"17582785352"
+      },
+          "Spellslinger":{
+            "Colormap":"114902630653540",
+            "Metalnessmap":"128745963218699",
+            "Normalmap":"74253250898950",
+            "Roughnessmap":"129235618590072",
+            "Colormapcontent":"114902630653540",
+            "Metalnessmapcontent":"128745963218699",
+            "Normalmapcontent":"74253250898950",
+            "Roughnessmapcontent":"129235618590072"
+      },
+          "Spiral1":{
+            "Colormap":"109134908250320",
+            "Metalnessmap":"115488103046621",
+            "Normalmap":"81217178723404",
+            "Roughnessmap":[],
+            "Colormapcontent":"109134908250320",
+            "Metalnessmapcontent":"115488103046621",
+            "Normalmapcontent":"81217178723404",
+            "Roughnessmapcontent":[]
+      },
+          "Spiral2":{
+            "Colormap":[],
+            "Metalnessmap":"97595754213125",
+            "Normalmap":"90414929459700",
+            "Roughnessmap":"93568274815417",
+            "Colormapcontent":[],
+            "Metalnessmapcontent":"97595754213125",
+            "Normalmapcontent":"90414929459700",
+            "Roughnessmapcontent":"93568274815417"
+      },
+          "Stained":{
+            "Colormap":"136786813545841",
+            "Metalnessmap":"98415910273635",
+            "Normalmap":"86016059730442",
+            "Roughnessmap":"70663357718625",
+            "Colormapcontent":"136786813545841",
+            "Metalnessmapcontent":"98415910273635",
+            "Normalmapcontent":"86016059730442",
+            "Roughnessmapcontent":"70663357718625"
+      },
+          "Starblaze 1":{
+            "Colormap":"18656097537",
+            "Metalnessmap":"18656097454",
+            "Normalmap":"18656097583",
+            "Roughnessmap":"18656097514",
+            "Colormapcontent":"18656097537",
+            "Metalnessmapcontent":"18656097454",
+            "Normalmapcontent":"18656097583",
+            "Roughnessmapcontent":"18656097514"
+      },
+          "Starblaze 2":{
+            "Colormap":"18656053049",
+            "Metalnessmap":"18656052933",
+            "Normalmap":"18656053057",
+            "Roughnessmap":"18656053007",
+            "Colormapcontent":"18656053049",
+            "Metalnessmapcontent":"18656052933",
+            "Normalmapcontent":"18656053057",
+            "Roughnessmapcontent":"18656053007"
+      },
+          "Steel":{
+            "Colormap":"17589351399",
+            "Metalnessmap":"17589351307",
+            "Normalmap":"17589351439",
+            "Roughnessmap":"17589351351",
+            "Colormapcontent":"17589351399",
+            "Metalnessmapcontent":"17589351307",
+            "Normalmapcontent":"17589351439",
+            "Roughnessmapcontent":"17589351351"
+      },
+          "Stockingfur":{
+            "Colormap":"128174483038108",
+            "Metalnessmap":"116814075876978",
+            "Normalmap":"126364117867207",
+            "Roughnessmap":"120995876840209",
+            "Colormapcontent":"128174483038108",
+            "Metalnessmapcontent":"116814075876978",
+            "Normalmapcontent":"126364117867207",
+            "Roughnessmapcontent":"120995876840209"
+      },
+          "Storm":{
+            "Colormap":"17582469549",
+            "Metalnessmap":"17582469499",
+            "Normalmap":"17582469531",
+            "Roughnessmap":"17582469535",
+            "Colormapcontent":"17582469549",
+            "Metalnessmapcontent":"17582469499",
+            "Normalmapcontent":"17582469531",
+            "Roughnessmapcontent":"17582469535"
+      },
+          "Street Camo":{
+            "Colormap":"17617741416",
+            "Metalnessmap":"17617741348",
+            "Normalmap":"17617741442",
+            "Roughnessmap":"17617741399",
+            "Colormapcontent":"17617741416",
+            "Metalnessmapcontent":"17617741348",
+            "Normalmapcontent":"17617741442",
+            "Roughnessmapcontent":"17617741399"
+      },
+          "Studded":{
+            "Colormap":[],
+            "Metalnessmap":"18644833242",
+            "Normalmap":"18644833573",
+            "Roughnessmap":"18644833553",
+            "Colormapcontent":[],
+            "Metalnessmapcontent":"18644833242",
+            "Normalmapcontent":"18644833573",
+            "Roughnessmapcontent":"18644833553"
+      },
+          "Swirls":{
+            "Colormap":"17582388221",
+            "Metalnessmap":"17582388162",
+            "Normalmap":"17582388228",
+            "Roughnessmap":"17582388197",
+            "Colormapcontent":"17582388221",
+            "Metalnessmapcontent":"17582388162",
+            "Normalmapcontent":"17582388228",
+            "Roughnessmapcontent":"17582388197"
+      },
+          "Tiger":{
+            "Colormap":"18655933154",
+            "Metalnessmap":"18655933061",
+            "Normalmap":"18655933147",
+            "Roughnessmap":"18655933113",
+            "Colormapcontent":"18655933154",
+            "Metalnessmapcontent":"18655933061",
+            "Normalmapcontent":"18655933147",
+            "Roughnessmapcontent":"18655933113"
+      },
+          "Uglysweater":{
+            "Colormap":"81747671623113",
+            "Metalnessmap":"92564941713444",
+            "Normalmap":"101745853037663",
+            "Roughnessmap":"109485401374810",
+            "Colormapcontent":"81747671623113",
+            "Metalnessmapcontent":"92564941713444",
+            "Normalmapcontent":"101745853037663",
+            "Roughnessmapcontent":"109485401374810"
+      },
+          "Uglysweater2":{
+            "Colormap":"115291970007984",
+            "Metalnessmap":[],
+            "Normalmap":"91422398817782",
+            "Roughnessmap":[],
+            "Colormapcontent":"115291970007984",
+            "Metalnessmapcontent":[],
+            "Normalmapcontent":"91422398817782",
+            "Roughnessmapcontent":[]
+      },
+          "Urban Camo":{
+            "Colormap":"17617719650",
+            "Metalnessmap":"17617719565",
+            "Normalmap":"17617719651",
+            "Roughnessmap":"17617719664",
+            "Colormapcontent":"17617719650",
+            "Metalnessmapcontent":"17617719565",
+            "Normalmapcontent":"17617719651",
+            "Roughnessmapcontent":"17617719664"
+      },
+          "Vigor":{
+            "Colormap":"17591803719",
+            "Metalnessmap":"17591803633",
+            "Normalmap":"17591803707",
+            "Roughnessmap":"17591803674",
+            "Colormapcontent":"17591803719",
+            "Metalnessmapcontent":"17591803633",
+            "Normalmapcontent":"17591803707",
+            "Roughnessmapcontent":"17591803674"
+      },
+          "Virusmat":{
+            "Colormap":"126640635125491",
+            "Metalnessmap":"83051954359391",
+            "Normalmap":"113077672044689",
+            "Roughnessmap":"85686403797574",
+            "Colormapcontent":"126640635125491",
+            "Metalnessmapcontent":"83051954359391",
+            "Normalmapcontent":"113077672044689",
+            "Roughnessmapcontent":"85686403797574"
+      },
+          "Voltaic":{
+            "Colormap":"96673615324465",
+            "Metalnessmap":"105227164588018",
+            "Normalmap":"96200800471689",
+            "Roughnessmap":"90445321183477",
+            "Colormapcontent":"96673615324465",
+            "Metalnessmapcontent":"105227164588018",
+            "Normalmapcontent":"96200800471689",
+            "Roughnessmapcontent":"90445321183477"
+      },
+          "Watermelon Green":{
+            "Colormap":"18655112917",
+            "Metalnessmap":"18655112715",
+            "Normalmap":"18655112895",
+            "Roughnessmap":"18655112799",
+            "Colormapcontent":"18655112917",
+            "Metalnessmapcontent":"18655112715",
+            "Normalmapcontent":"18655112895",
+            "Roughnessmapcontent":"18655112799"
+      },
+          "Watermelon Red":{
+            "Colormap":"18655342160",
+            "Metalnessmap":"18655342057",
+            "Normalmap":"18655342257",
+            "Roughnessmap":"18655342124",
+            "Colormapcontent":"18655342160",
+            "Metalnessmapcontent":"18655342057",
+            "Normalmapcontent":"18655342257",
+            "Roughnessmapcontent":"18655342124"
+      },
+          "Wealth":{
+            "Colormap":"17582760558",
+            "Metalnessmap":"17582760513",
+            "Normalmap":"17582760561",
+            "Roughnessmap":"17582760549",
+            "Colormapcontent":"17582760558",
+            "Metalnessmapcontent":"17582760513",
+            "Normalmapcontent":"17582760561",
+            "Roughnessmapcontent":"17582760549"
+      },
+          "Webbed":{
+            "Colormap":"17582188105",
+            "Metalnessmap":"17582187994",
+            "Normalmap":"17582188125",
+            "Roughnessmap":"17582188081",
+            "Colormapcontent":"17582188105",
+            "Metalnessmapcontent":"17582187994",
+            "Normalmapcontent":"17582188125",
+            "Roughnessmapcontent":"17582188081"
+      },
+          "Werewolf Fur":{
+            "Colormap":"124646054208622",
+            "Metalnessmap":[],
+            "Normalmap":"99198483820106",
+            "Roughnessmap":[],
+            "Colormapcontent":"124646054208622",
+            "Metalnessmapcontent":[],
+            "Normalmapcontent":"99198483820106",
+            "Roughnessmapcontent":[]
+      },
+          "Wooly1":{
+            "Colormap":[],
+            "Metalnessmap":"100746634314832",
+            "Normalmap":[],
+            "Roughnessmap":"128912834378921",
+            "Colormapcontent":[],
+            "Metalnessmapcontent":"100746634314832",
+            "Normalmapcontent":[],
+            "Roughnessmapcontent":"128912834378921"
+      },
+          "Wrappingpaper":{
+            "Colormap":"70369684461131",
+            "Metalnessmap":"125298060223774",
+            "Normalmap":"126665103448625",
+            "Roughnessmap":"137381161016120",
+            "Colormapcontent":"70369684461131",
+            "Metalnessmapcontent":"125298060223774",
+            "Normalmapcontent":"126665103448625",
+            "Roughnessmapcontent":"137381161016120"
+      },
+          "Wrappingpaper_01a":{
+            "Colormap":"70369684461131",
+            "Metalnessmap":"125298060223774",
+            "Normalmap":"72992597201224",
+            "Roughnessmap":"137381161016120",
+            "Colormapcontent":"70369684461131",
+            "Metalnessmapcontent":"125298060223774",
+            "Normalmapcontent":"72992597201224",
+            "Roughnessmapcontent":"137381161016120"
+      },
+          "Wrappingpearlescent":{
+            "Colormap":[],
+            "Metalnessmap":"96030697377248",
+            "Normalmap":"87001153819",
+            "Roughnessmap":"92853442776873",
+            "Colormapcontent":[],
+            "Metalnessmapcontent":"96030697377248",
+            "Normalmapcontent":"87001153819521",
+            "Roughnessmapcontent":"92853442776873"
+      },
+          "Wrappingpearlescent2":{
+            "Colormap":[],
+            "Metalnessmap":"96030697377248",
+            "Normalmap":"87001153819521",
+            "Roughnessmap":[],
+            "Colormapcontent":[],
+            "Metalnessmapcontent":"96030697377248",
+            "Normalmapcontent":"87001153819521",
+            "Roughnessmapcontent":[]
+      },
+          "Yin Yang":{
+            "Colormap":"18655892192",
+            "Metalnessmap":"18655892015",
+            "Normalmap":"18655892175",
+            "Roughnessmap":"18655892089",
+            "Colormapcontent":"18655892192",
+            "Metalnessmapcontent":"18655892015",
+            "Normalmapcontent":"18655892175",
+            "Roughnessmapcontent":"18655892089"
+        }
+      }
+    }
+  },
   "Misc":{
 	  "Hitmarker": {
           "Tl":"13077299416",
